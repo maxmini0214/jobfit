@@ -1,0 +1,312 @@
+{
+  "user": "김개발",
+  "matched_at": "2026-03-26T19:12:48.919971",
+  "total_jobs": 80,
+  "results": [
+    {
+      "job_id": 350741,
+      "company_name": "윙잇",
+      "position_title": "풀스택 개발자 (4년 이상)",
+      "source": "wanted",
+      "source_url": "https://www.wanted.co.kr/wd/350741",
+      "overall_score": 68.0,
+      "skill_score": 50.0,
+      "condition_score": 60.0,
+      "culture_score": 100.0,
+      "reasons": [
+        "🛠 스킬 매칭: aws, cicd, git, mongodb, nextjs",
+        "🎯 컬쳐핏: 자율, 성장지향, 수평, 기술주도",
+        "❌ 사무실 출근 필수"
+      ],
+      "gaps": [
+        "📚 보완 필요 스킬: git 기반 협업코드리뷰 등에 익숙한 분, github, go, javascript, mongodb 등 nosql 데이터 설계/운영 경험"
+      ],
+      "matched_skills": [
+        "aws",
+        "cicd",
+        "git",
+        "mongodb",
+        "nextjs",
+        "nodejs",
+        "react",
+        "typescript"
+      ],
+      "missing_skills": [
+        "git 기반 협업코드리뷰 등에 익숙한 분",
+        "github",
+        "go",
+        "javascript",
+        "mongodb 등 nosql 데이터 설계/운영 경험",
+        "node.jsexpress 등 기반 api 개발 경험",
+        "react/next.js 기반 서비스 개발 경험",
+        "typescript 기반 개발 경험",
+        "프론트엔드와 백엔드 개발을 모두 경험해본 분"
+      ],
+      "matched_at": "2026-03-26T19:12:48.919324"
+    },
+    {
+      "job_id": 53289655,
+      "company_name": "비바이노베이션",
+      "position_title": "Backend Developer",
+      "source": "jumpit",
+      "source_url": "https://www.jumpit.co.kr/position/53289655",
+      "overall_score": 65.8,
+      "skill_score": 44.4,
+      "condition_score": 60.0,
+      "culture_score": 100.0,
+      "reasons": [
+        "🛠 스킬 매칭: aws, restapi",
+        "🎯 컬쳐핏: 자율, 성장지향, 수평, 기술주도",
+        "❌ 사무실 출근 필수"
+      ],
+      "gaps": [
+        "📚 보완 필요 스킬: aws 주요 리소스 설정 및 활용 경험이 있으신 분, rdbms 효율적인 스키마 설계 및 트러블슈팅이 가능하신 분, rest api 백엔드 개발 및 운영 경험 5년 이상, 다양한 언어와 프레임워크nestjs fastapi 활용이 가능하신 분"
+      ],
+      "matched_skills": [
+        "aws",
+        "restapi"
+      ],
+      "missing_skills": [
+        "aws 주요 리소스 설정 및 활용 경험이 있으신 분",
+        "rdbms 효율적인 스키마 설계 및 트러블슈팅이 가능하신 분",
+        "rest api 백엔드 개발 및 운영 경험 5년 이상",
+        "다양한 언어와 프레임워크nestjs fastapi 활용이 가능하신 분"
+      ],
+      "matched_at": "2026-03-26T19:12:48.918680"
+    },
+    {
+      "job_id": "53289655",
+      "company_name": "비바이노베이션",
+      "position_title": "Backend Developer",
+      "source": "jumpit",
+      "source_url": "https://www.jumpit.co.kr/position/53289655",
+      "overall_score": 65.5,
+      "skill_score": 100.0,
+      "condition_score": 60.0,
+      "culture_score": 25.0,
+      "reasons": [
+        "🛠 스킬 매칭: aws, restapi",
+        "🎯 컬쳐핏: 기술주도",
+        "❌ 사무실 출근 필수"
+      ],
+      "gaps": [],
+      "matched_skills": [
+        "aws",
+        "restapi"
+      ],
+      "missing_skills": [],
+      "matched_at": "2026-03-26T19:12:48.918204"
+    },
+    {
+      "job_id": 350779,
+      "company_name": "아토머스(마인드카페)",
+      "position_title": "[아토머스] 풀스택 개발자",
+      "source": "wanted",
+      "source_url": "https://www.wanted.co.kr/wd/350779",
+      "overall_score": 64.5,
+      "skill_score": 41.2,
+      "condition_score": 60.0,
+      "culture_score": 100.0,
+      "reasons": [
+        "🛠 스킬 매칭: aws, python, react, typescript",
+        "🎯 컬쳐핏: 자율, 성장지향, 수평, 기술주도",
+        "❌ 사무실 출근 필수"
+      ],
+      "gaps": [
+        "📚 보완 필요 스킬:  ai 개발도구 cursor claude code 등 활용경험 필수,  aws 기반의 서비스 아키텍처 설계 및 구축 경험,  nextjs/nuxt.js 경험 및 이해,  python / flask fastapi 등 프레임워크 기반 3년 이상의 개발경험,  rdbms 기반 데이터 모델링 및 sql 경험"
+      ],
+      "matched_skills": [
+        "aws",
+        "python",
+        "react",
+        "typescript"
+      ],
+      "missing_skills": [
+        " ai 개발도구 cursor claude code 등 활용경험 필수",
+        " aws 기반의 서비스 아키텍처 설계 및 구축 경험",
+        " nextjs/nuxt.js 경험 및 이해",
+        " python / flask fastapi 등 프레임워크 기반 3년 이상의 개발경험",
+        " rdbms 기반 데이터 모델링 및 sql 경험",
+        " rest api 설계 및 개발 능력",
+        " typescript / react vue 기반 웹 프론트엔드 개발 경험",
+        " 코드리뷰에 적극적으로 참여가 가능한 분",
+        "fastapi",
+        "vue"
+      ],
+      "matched_at": "2026-03-26T19:12:48.919161"
+    },
+    {
+      "job_id": 350722,
+      "company_name": "나니아랩스",
+      "position_title": "LLM Research Engineer",
+      "source": "wanted",
+      "source_url": "https://www.wanted.co.kr/wd/350722",
+      "overall_score": 64.5,
+      "skill_score": 41.2,
+      "condition_score": 60.0,
+      "culture_score": 100.0,
+      "reasons": [
+        "🛠 스킬 매칭: docker, python, react, typescript",
+        "🎯 컬쳐핏: 자율, 성장지향, 수평, 기술주도",
+        "❌ 사무실 출근 필수"
+      ],
+      "gaps": [
+        "📚 보완 필요 스킬: ai를 이용한 제조 및 엔지니어링 문제 해결에 관심이 있는 분, cuda, fastapi, llm/agent 기술을 활용하여 3d 설계 및 엔지니어링 문제를 해결해보고 싶으신 분, llm을 활용한 애플리케이션 개발 경험이 있거나 관련 연구를 수행하신 분"
+      ],
+      "matched_skills": [
+        "docker",
+        "python",
+        "react",
+        "typescript"
+      ],
+      "missing_skills": [
+        "ai를 이용한 제조 및 엔지니어링 문제 해결에 관심이 있는 분",
+        "cuda",
+        "fastapi",
+        "llm/agent 기술을 활용하여 3d 설계 및 엔지니어링 문제를 해결해보고 싶으신 분",
+        "llm을 활용한 애플리케이션 개발 경험이 있거나 관련 연구를 수행하신 분",
+        "nginx",
+        "병역특례 지원 가능합니다",
+        "새로운 기술을 빠르게 습득하고 전파하시는 분",
+        "신입 및 경력 모두 지원 가능합니다",
+        "우수한 커뮤니케이션 및 팀워크 능력을 갖추신 분"
+      ],
+      "matched_at": "2026-03-26T19:12:48.919426"
+    },
+    {
+      "job_id": 350666,
+      "company_name": "미소(miso)",
+      "position_title": "Back-end Developer (5년 내외)",
+      "source": "wanted",
+      "source_url": "https://www.wanted.co.kr/wd/350666",
+      "overall_score": 60.5,
+      "skill_score": 50.0,
+      "condition_score": 60.0,
+      "culture_score": 75.0,
+      "reasons": [
+        "🛠 스킬 매칭: aws, git, nextjs, nodejs, postgres",
+        "🎯 컬쳐핏: 성장지향, 수평, 기술주도",
+        "❌ 사무실 출근 필수"
+      ],
+      "gaps": [
+        "📚 보완 필요 스킬: back-end 경력 5년8년 또는 이에 준하는 역량을 갖고 계신 분, go, kubernetes, node.js/typescript 환경에서 nestjs 프레임워크를 활용한 백엔드 api 개발 및 관계형/nosql 데이터베이스를 능숙하게 활용할 수 있으신 분, react native"
+      ],
+      "matched_skills": [
+        "aws",
+        "git",
+        "nextjs",
+        "nodejs",
+        "postgres",
+        "react",
+        "typescript"
+      ],
+      "missing_skills": [
+        "back-end 경력 5년8년 또는 이에 준하는 역량을 갖고 계신 분",
+        "go",
+        "kubernetes",
+        "node.js/typescript 환경에서 nestjs 프레임워크를 활용한 백엔드 api 개발 및 관계형/nosql 데이터베이스를 능숙하게 활용할 수 있으신 분",
+        "react native",
+        "spark",
+        "terraform",
+        "함께하고 싶습니다"
+      ],
+      "matched_at": "2026-03-26T19:12:48.919781"
+    },
+    {
+      "job_id": "53278497",
+      "company_name": "골든플래닛",
+      "position_title": "AI 에이전트 백엔드 개발자 : RAG, 벡터DB 구축",
+      "source": "jumpit",
+      "source_url": "https://www.jumpit.co.kr/position/53278497",
+      "overall_score": 58.0,
+      "skill_score": 100.0,
+      "condition_score": 60.0,
+      "culture_score": 0.0,
+      "reasons": [
+        "🛠 스킬 매칭: python",
+        "❌ 사무실 출근 필수"
+      ],
+      "gaps": [],
+      "matched_skills": [
+        "python"
+      ],
+      "missing_skills": [],
+      "matched_at": "2026-03-26T19:12:48.918165"
+    },
+    {
+      "job_id": "53439534",
+      "company_name": "앵커스",
+      "position_title": "Front end 개발 리더 채용 (14-20년)",
+      "source": "jumpit",
+      "source_url": "https://www.jumpit.co.kr/position/53439534",
+      "overall_score": 58.0,
+      "skill_score": 100.0,
+      "condition_score": 60.0,
+      "culture_score": 0.0,
+      "reasons": [
+        "🛠 스킬 매칭: react, typescript",
+        "❌ 사무실 출근 필수"
+      ],
+      "gaps": [],
+      "matched_skills": [
+        "react",
+        "typescript"
+      ],
+      "missing_skills": [],
+      "matched_at": "2026-03-26T19:12:48.918305"
+    },
+    {
+      "job_id": "53439526",
+      "company_name": "앵커스",
+      "position_title": "Front end 개발 리더 채용 (9-13년)",
+      "source": "jumpit",
+      "source_url": "https://www.jumpit.co.kr/position/53439526",
+      "overall_score": 58.0,
+      "skill_score": 100.0,
+      "condition_score": 60.0,
+      "culture_score": 0.0,
+      "reasons": [
+        "🛠 스킬 매칭: react, typescript",
+        "❌ 사무실 출근 필수"
+      ],
+      "gaps": [],
+      "matched_skills": [
+        "react",
+        "typescript"
+      ],
+      "missing_skills": [],
+      "matched_at": "2026-03-26T19:12:48.918317"
+    },
+    {
+      "job_id": 53249702,
+      "company_name": "비큐에이아이",
+      "position_title": "백엔드개발자(경력)",
+      "source": "jumpit",
+      "source_url": "https://www.jumpit.co.kr/position/53249702",
+      "overall_score": 56.5,
+      "skill_score": 40.0,
+      "condition_score": 60.0,
+      "culture_score": 75.0,
+      "reasons": [
+        "🛠 스킬 매칭: mongodb, postgres, python",
+        "🎯 컬쳐핏: 자율, 성장지향, 수평",
+        "❌ 사무실 출근 필수"
+      ],
+      "gaps": [
+        "📚 보완 필요 스킬: 3  7년 이상의 백엔드 개발 관련 경험이 있으신 분, elk, html5, mysql"
+      ],
+      "matched_skills": [
+        "mongodb",
+        "postgres",
+        "python"
+      ],
+      "missing_skills": [
+        "3  7년 이상의 백엔드 개발 관련 경험이 있으신 분",
+        "elk",
+        "html5",
+        "mysql"
+      ],
+      "matched_at": "2026-03-26T19:12:48.918764"
+    }
+  ]
+}

@@ -1,0 +1,920 @@
+{
+  "source": "jumpit",
+  "category": "backend",
+  "category_id": 1,
+  "scraped_at": "2026-03-26T09:40:59.601896+00:00",
+  "total": 20,
+  "jobs": [
+    {
+      "source": "jumpit",
+      "source_id": 53451279,
+      "source_url": "https://www.jumpit.co.kr/position/53451279",
+      "company_name": "프라이빗테크놀로지",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "프록시 서버 개발(3년-15년)",
+      "job_category": "서버/백엔드 개발자",
+      "description": "PRIBIT은 언제 어디서든 안전하게 데이터가 전송될 수 있는 환경, AI시대를 가속하기 위한 미래 정보운송 체계에 투자 및 연구를 집중하고 있습니다.\r\n\r\nPRIBIT만의 애플리케이션 접속 제어 기술은 통신 주체인 애플리케이션을 식별 및 제어함으로써 네트워크 보안의 사각지대를 근본적으로 해소한 세계 최초의 차세대 네트워크 보안 기술입니다.\r\n\r\nPRIBIT의 애플리케이션 접속 제어 기술은 IP를 사용하는 모든 네트워크에 적용되어야 하는 필수 기술임을 의미하며 대상 시장의 크기는 애플리케이션이 접속되어 있는 단말의 숫자에 비례합니다.\r\n\r\nPRIBIT은 차세대 네트워크 보안 시장과 더불어 애플리케이션 접속 제어에서 핵심 경쟁력을 보유하고 있습니다.",
+      "main_tasks": "[채용파트 - 엣지파트]\r\n• Nginx 기반 프록시 서버 개발\r\n• HTTP/S, TCP/UDP 패킷 제어 기능 개발",
+      "requirements": [
+        " Lua, C/C++, Shell Script 개발 경력(Linux)",
+        " Nginx 기반 프록시 서버 개발 경력"
+      ],
+      "preferred": [
+        " Openresty Lua 기반 개발 경험",
+        " Nginx stream proxy 개발 경험",
+        " TCP/UDP기반 Protocol 분석 및 개발 경험"
+      ],
+      "tech_stack": [
+        "C",
+        "C++",
+        "Linux",
+        "Lua",
+        "NGINX",
+        "TCP/IP",
+        "OpenResty",
+        "Nginx Proxy Manager"
+      ],
+      "culture_tags": [
+        "자율출퇴근",
+        "자기계발비"
+      ],
+      "benefits": "• 자율출퇴근제 (오전 8시부터 10시까지 원하는 시간에 출근)\r\n• 연간 50만원한도 내 자기계발비 지급\r\n• 생일축하금 및 경조사 지원\r\n• 탕비실 간식/음료제공\r\n• 명절상여금 지급\r\n• 퇴직연금 \r\n• 회식비 지급\r\n• 장기근속자 5년 Refresh 휴가 5일\r\n• 하계휴가비 지급",
+      "location": "서울 마포구",
+      "min_career": 3,
+      "max_career": 15,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-24T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:07.085228+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53448818,
+      "source_url": "https://www.jumpit.co.kr/position/53448818",
+      "company_name": "주식회사원가람",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "백엔드 개발자 채용 (경력)",
+      "job_category": "기술지원,정보보안 담당자,개발 PM,QA 엔지니어,빅데이터 엔지니어,서버/백엔드 개발자,프론트엔드 개발자",
+      "description": "-",
+      "main_tasks": "• 주요 기술 : PHP, Typescript, javascript, NodeJs, GraphQL\r\n• 클라우드 : AWS, GCP, NHN Cloud\r\n• 저장소 : MySQL, Redis, Elasticsearch\r\n• 업무 도구 : Git(Gitlab), VisualStudioCode, Docker\r\n• 코드 리뷰 : Gitlab MR\r\n• 테스트, 빌드, 배포 : Gitlab CI, DevContainer, Jenkins\r\n• 모니터링: Sentry, PRTG",
+      "requirements": [
+        " 경력 2년 이상",
+        " 3년제 공학사 또는 4년제 컴퓨터공학, 소프트웨어공학, 정보통신공학 등 IT·개발 관련 전공자",
+        " 성별/연령 무관",
+        " 해외여행에 결격사유가 없는 자"
+      ],
+      "preferred": [
+        " REST API 설계 및 운영 경험",
+        " 인증 및 보안 처리(JWT, OAuth, TLS 등) 경험",
+        " 결제(PG), 금융, 정산 시스템 개발 경험"
+      ],
+      "tech_stack": [
+        "Elasticsearch",
+        "GraphQL",
+        "JavaScript",
+        "MySQL",
+        "Node.js",
+        "PHP",
+        "Redis",
+        "TypeScript",
+        "AWS",
+        "GCP"
+      ],
+      "culture_tags": [
+        "자유연차"
+      ],
+      "benefits": "지원금/보험\r\n건강검진, 문화생활비\r\n\r\n급여제도\r\n퇴직연금, 상여금, 연차수당, 4대 보험\r\n\r\n선물\r\n명절선물/귀향비\r\n\r\n교육/생활\r\n저녁식사 제공, 사우회(경조사회), 간식 제공\r\n\r\n근무 환경\r\n카페테리아, 전용사옥\r\n\r\n조직문화\r\n회식강요 안함, 자유복장, 자유로운 연차사용, 문화 회식\r\n\r\n출퇴근\r\n자율 근무제\r\n\r\n리프레시\r\n연차, 여름휴가, 근로자의날 휴무\r\n",
+      "location": "서울 강남구",
+      "min_career": 2,
+      "max_career": 10,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-24T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:08.577207+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53446783,
+      "source_url": "https://www.jumpit.co.kr/position/53446783",
+      "company_name": "주식회사원가람",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "백엔드 개발자 채용 (신입)",
+      "job_category": "기술지원,정보보안 담당자,개발 PM,QA 엔지니어,빅데이터 엔지니어,서버/백엔드 개발자,프론트엔드 개발자",
+      "description": "-",
+      "main_tasks": "• 주요 기술 : PHP, Typescript, javascript, NodeJs, GraphQL\r\n• 클라우드 : AWS, GCP, NHN Cloud\r\n• 저장소 : MySQL, Redis, Elasticsearch\r\n• 업무 도구 : Git(Gitlab), VisualStudioCode, Docker\r\n• 코드 리뷰 : Gitlab MR\r\n• 테스트, 빌드, 배포 : Gitlab CI, DevContainer, Jenkins\r\n• 모니터링: Sentry, PRTG",
+      "requirements": [
+        " 경력 무관",
+        " 고등학교 졸업 이상",
+        " 성별/연령 무관",
+        " 해외여행에 결격사유가 없는 자"
+      ],
+      "preferred": [
+        " REST API 설계 및 운영 경험",
+        " 인증 및 보안 처리(JWT, OAuth, TLS 등) 경험",
+        " 결제(PG), 금융, 정산 시스템 개발 경험"
+      ],
+      "tech_stack": [
+        "Elasticsearch",
+        "GraphQL",
+        "JavaScript",
+        "MySQL",
+        "Node.js",
+        "PHP",
+        "Redis",
+        "TypeScript",
+        "AWS",
+        "GCP"
+      ],
+      "culture_tags": [
+        "자유연차"
+      ],
+      "benefits": "지원금/보험\r\n건강검진, 문화생활비\r\n\r\n급여제도\r\n퇴직연금, 상여금, 연차수당, 4대 보험\r\n\r\n선물\r\n명절선물/귀향비\r\n\r\n교육/생활\r\n저녁식사 제공, 사우회(경조사회), 간식 제공\r\n\r\n근무 환경\r\n카페테리아, 전용사옥\r\n\r\n조직문화\r\n회식강요 안함, 자유복장, 자유로운 연차사용, 문화 회식\r\n\r\n출퇴근\r\n자율 근무제\r\n\r\n리프레시\r\n연차, 여름휴가, 근로자의날 휴무\r\n",
+      "location": "서울 강남구",
+      "min_career": 0,
+      "max_career": 0,
+      "newcomer": true,
+      "celebration": 50,
+      "closed_at": "2026-04-24T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:09.728386+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53278133,
+      "source_url": "https://www.jumpit.co.kr/position/53278133",
+      "company_name": "골든플래닛",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "구글 클라우드 엔지니어 아키텍처 설계/기술지원 (Data,AI/ML)",
+      "job_category": "기술지원,빅데이터 엔지니어,서버/백엔드 개발자",
+      "description": "골든플래닛은 구글(Google)과 세일즈포스(Salesforce)의 강력한 파트너로서, 글로벌 빅테크 기술을 기반으로 기업에 필요한 데이터 솔루션을 제공하는 IT 기업입니다.\r\n\r\nAX Cloud Engineering팀은 GCP 기반의 Cloud Native 환경 위에서, 리소스를 관리하고 시스템을 개발/운영하는 팀입니다.\r\n단순히 인프라를 지탱하는 것을 넘어, 데이터가 흐르는 파이프라인을 설계하고 서비스의 로직(Backend)까지 주도적으로 개발합니다. \r\n전사 리소스에 대한 빌링(비용) 최적화, IAM 권한 관리 자동화, 거버넌스 정책 수립 등 MSP 업무를 시스템화하여 안정적인 토대를 만듭니다.\r\nVertex AI와 LLM 등 최신 기술을 활용해 비즈니스의 복잡한 문제를 기술로 해결하는 데 집중하며, \"인프라, 데이터, 백엔드\"의 경계를 넘나드는 엔지니어들이 모여 함께 성장하고 있습니다. ",
+      "main_tasks": "안정적인 클라우드 인프라 구축부터 데이터 파이프라인 설계까지, 서비스의 코어를 담당합니다.\r\n\r\n1. GCP 기반 서비스 구축 지원\r\n- GCP 주요 리소스(Compute, Storage, Network 등)를 활용한 클라우드 인프라 구성 및 운영 \r\n- 비즈니스 요구사항에 맞춰 유연하게 클라우드 리소스를 프로비저닝하고 관리\r\n\r\n2. 서비스 백엔드 및 데이터 파이프라인 개발\r\n- Python 기반의 백엔드 서비스 개발 및 RESTful API 설계\r\n- 대용량 데이터 처리를 위한 실시간/배치 파이프라인(BigQuery, Pub/Sub, Dataflow 등) 설계 및 구축\r\n\r\n3. Cloud Native 환경 운영: 컨테이너 배포 환경 관리 및 모니터링\r\n- 컨테이너 기반 배포 환경(Docker, K8s/GKE, Cloud Run 등) 구축 및 관리\r\n- 서비스 안정성을 위한 모니터링 시스템(Cloud Monitoring, Logging) 구성",
+      "requirements": [
+        " 특정 영역의 경계 없이, 클라우드 위에서 주도적으로 문제를 해결하는 분",
+        " 클라우드 활용 경험: GCP, AWS, Azure 중 1개 이상의 퍼블릭 클라우드 환경에서 인프라 구축 또는 서비스를 배포·운영해 본 경험이 있으신 분",
+        " Python 언어 활용이 능숙하며, RESTful API 설계 및 백엔드 개발 역량을 보유하신 분",
+        " SQL 작성에 능숙하며, RDBMS 및 NoSQL을 활용한 데이터 모델링과 파이프라인에 대한 이해가 있으신 분",
+        " 새로운 기술(Vertex AI 등) 습득에 거부감이 없고, 주어진 비즈니스 문제를 기술적으로 해결(Troubleshooting)하는 데 적극적인 분"
+      ],
+      "preferred": [
+        " LLM 애플리케이션 개발 또는 Vector DB 활용 경험이 있으신 분",
+        " GCP 기반 프로젝트 수행 경험 또는 관련 자격증(Professional Data/Cloud Engineer 등) 보유자",
+        " CI/CD 파이프라인 구축 및 운영 경험이 있으신 분"
+      ],
+      "tech_stack": [
+        "GCP"
+      ],
+      "culture_tags": [
+        "유연근무"
+      ],
+      "benefits": "1. 근무 환경 및 일과 삶의 균형\r\n- 유연근무제(선택근무제): 9시 30분 자율 출근 및 주당 최대 1시간 30분 범위 내 유연한 출퇴근 조정\r\n- 조기 퇴근 제도 (Family Day): 주 1회, 1시간 30분 단축 근무\r\n   유연근무제 & 조기퇴근제 동시 사용 시 오후 3시 퇴근 가능\r\n- 리프레시 휴가: 3년, 5년, 7년, 10년 장기 근속 시 포상금 및 특별 휴가 제공\r\n\r\n2. 성장 지원 및 보상\r\n- 교육비 및 도서 지원: 직무 관련 자격증 취득 축하금, Code-IT 등 온라인 강의 지원\r\n\r\n3. 건강 및 생활 지원\r\n- 체력 단련비 지원: 월 1회 골프, 헬스, 필라테스 등 운동 비용 지원\r\n- 기념일 선물: 생일(15만 원 상당) 및 경조사비 지원",
+      "location": "서울 강남구",
+      "min_career": 5,
+      "max_career": 10,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-07T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:12.530928+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53278284,
+      "source_url": "https://www.jumpit.co.kr/position/53278284",
+      "company_name": "골든플래닛",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "AI 에이전트 백엔드 개발자 : Langraph/Langchain/LLM",
+      "job_category": "기술지원,인공지능/머신러닝,빅데이터 엔지니어,devops/시스템 엔지니어,서버/백엔드 개발자",
+      "description": "골든플래닛은 구글 프리미어 파트너사로, B2B 데이터 분석 SaaS를 만들고 있습니다.\r\nSQL을 모르는 마케터나 기획자도 자연어로 질문하면, LLM 에이전트가 GA4 데이터가 적재된 BigQuery에서 자동으로 SQL을 생성, 실행하여 인사이트 리포트까지 제공하는 솔루션입니다.\r\nLangGraph 기반의 복잡한 추론 워크플로우와 GCP 기반의 확장성 있는 아키텍처를 다루며, 현재 서비스를 시작으로 다양한 도메인의 AI 에이전트 서비스로 확장을 주도적으로 고민하고 함께 만들어갈 핵심 멤버를 찾습니다.",
+      "main_tasks": "1. AI 에이전트 워크플로우 고도화\r\n- LangGraph를 활용한 Text-to-SQL, RAG, 데이터 분석 에이전트 워크플로우 설계 및 구현\r\n- LLM의 Tool Calling을 활용한 Agentic Workflow 구축\r\n- 복잡한 사용자 의도(Intent) 분류 및 Context 관리 로직 최적화\r\n\r\n2. SaaS 백엔드 API 개발 및 운영\r\n- FastAPI 기반의 RESTful API 설계 및 구현\r\n- 사용자, 조직, 권한 관리 등 B2B SaaS 필수 기능 개발\r\n\r\n3. 데이터베이스 설계 및 운영\r\n- 서비스 요건에 따른 PostgreSQL/Firestore 데이터 모델링 및 마이그레이션 관리\r\n- 쿼리 성능 튜닝 및 데이터 무결성/일관성 최적화\r\n- RLS(Row Level Security)를 활용한 안전한 멀티테넌시 데이터 격리 구현\r\n\r\n4. 클라우드 인프라 및 보안 엔지니어링\r\n- GCP 기반의 고가용성 인프라(Cloud Load Balancer, Cloud Armor, IAP) 운영 및 관리\r\n- Cloud Build와 Artifact Registry를 활용한 Docker 컨테이너 CI/CD 파이프라인 최적화\r\n- Cloud Monitoring/Logging을 활용한 시스템 관측 가능성(Observability) 확보 및 장애 대응\r\n- Zero Trust 보안 모델 적용(IAP) 및 감사 로그(Audit Logs) 정책 수립 및 운영",
+      "requirements": [
+        " Python 기반 백엔드 개발 경력 3년 이상으로, FastAPI와 SQLAlchemy(Async)를 활용한 비동기 아키텍처 설계/운영 경험이 있으신 분",
+        " LangChain / LangGraph 등 LLM 오케스트레이션 도구를 활용하여 실제 AI 에이전트 서비스를 구축해 본 경험",
+        " B2B SaaS 서비스 개발 경험: 멀티테넌시(Multi-tenancy) 환경에서의 데이터 격리(RLS 등) 및 아키텍처 설계 경험이 있으신 분",
+        " 확장성을 고려한 RDBMS 데이터 모델링 및 쿼리 튜닝 역량을 보유하신 분",
+        " 클라우드 인프라(GCP/AWS 등) 운영 경험: IAM, VPC 네트워크, 컨테이너 기반 배포 환경을 이해하고 구성할 수 있으신 분",
+        " 주도적으로 문제를 정의하고 해결하는 것을 즐기시는 분"
+      ],
+      "preferred": [
+        " GCP 클라우드 경험: Google Cloud Platform(GCP) 환경에서의 실무 경험이 있으신 분",
+        " Tech Stack 일치: LangGraph, LangChain, FastAPI 등 당사 기술 스택을 활용한 프로젝트 경험이 있으신 분",
+        " 데이터 웨어하우스 경험: Google BigQuery 쿼리 작성 및 비용 구조에 대한 이해가 있으신 분",
+        " GA4(Google Analytics 4) 데이터 스키마에 대한 이해도가 있으신 분"
+      ],
+      "tech_stack": [
+        "GCP"
+      ],
+      "culture_tags": [
+        "유연근무"
+      ],
+      "benefits": "1. 근무 환경 및 일과 삶의 균형\r\n- 유연근무제(선택근무제): 9시 30분 자율 출근 및 주당 최대 1시간 30분 범위 내 유연한 출퇴근 조정\r\n- 조기 퇴근 제도 (Family Day): 주 1회, 1시간 30분 단축 근무\r\n   유연근무제 & 조기퇴근제 동시 사용 시 오후 3시 퇴근 가능\r\n- 리프레시 휴가: 3년, 5년, 7년, 10년 장기 근속 시 포상금 및 특별 휴가 제공\r\n\r\n2. 성장 지원 및 보상\r\n- 교육비 및 도서 지원: 직무 관련 자격증 취득 축하금, Code-IT 등 온라인 강의 지원\r\n\r\n3. 건강 및 생활 지원\r\n- 체력 단련비 지원: 월 1회 골프, 헬스, 필라테스 등 운동 비용 지원\r\n- 기념일 선물: 생일(15만 원 상당) 및 경조사비 지원",
+      "location": "서울 강남구",
+      "min_career": 3,
+      "max_career": 10,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-07T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:15.234289+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53278497,
+      "source_url": "https://www.jumpit.co.kr/position/53278497",
+      "company_name": "골든플래닛",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "AI 에이전트 백엔드 개발자 : RAG, 벡터DB 구축",
+      "job_category": "기술지원,빅데이터 엔지니어,서버/백엔드 개발자",
+      "description": "골든플래닛은 구글 프리미어 파트너사로, B2B 데이터 분석 SaaS를 만들고 있습니다.\r\nSQL을 모르는 마케터나 기획자도 자연어로 질문하면, LLM 에이전트가 GA4 데이터가 적재된 BigQuery에서 자동으로 SQL을 생성, 실행하여 인사이트 리포트까지 제공하는 솔루션입니다.\r\nLangGraph 기반의 복잡한 추론 워크플로우와 GCP 기반의 확장성 있는 아키텍처를 다루며, 현재 서비스를 시작으로 다양한 도메인의 AI 에이전트 서비스로 확장을 주도적으로 고민하고 함께 만들어갈 핵심 멤버를 찾습니다.",
+      "main_tasks": "1. 벡터 기반 Database 설계 및 구축 \r\n- 비정형 데이터 체계화, 멀티모달 검색을 고려한 Database 설계  \r\n- Hybrid (Vector + Keyword) 검색을 지원할 수 있는 DB 구축\r\n- 멀티모달 문서(텍스트, 표, 이미지) 기반 검색 확장 설계\r\n\r\n2. 비정형 데이터 메타데이터 설계\r\n- 도메인 특성을 고려한 Chunk 전략 수립\r\n- 멀티 모달을 고려한 텍스트, 표, 이미지, 도면 등 구성요소 분리 (청킹)\r\n- 구조화 메타데이터 설계 (문서 타입, 출처, 위치 정보 등)\r\n \r\n3. AI Agent (RAG 사용) 개발 \r\n- RAG 를 사용한 검색용 AI Agent 구현 \r\n- 검색 결과와 데이터 출처 및 관련 데이터 제공 \r\n- Agent와 Retrieval 시스템 연동\r\n- Advanced RAG 시스템 설계 \r\n\r\n4. 백엔드 관리 \r\n- 백엔드 환경 구축\r\n- 운영 환경에서의 트래픽 요청 대응 \r\n- 운영 환경에서의 유지보수 진행 \r\n\r\n[기술 스택: 필수]\r\n- Language: Python \r\n- Framework:  FastApi\r\n- AI / Multimodal:  Gemini Api, Google Vertex AI (Gemini Vision)\r\n- Doc Parsing - Unstructured.io, LlamaParse, PyMuPDF, OCR Engine (택1 및 도입제안) \r\n- Database & Search Engine:\r\n- Vector DB: Milvus, Qdrant, Pinecone, PgVector 등 (택1 및 도입 제안)\r\n- RDB: PostgreSQL \r\n- AI Orchestration: LlamaIndex, LangGraph (택1 및 도입 제안)",
+      "requirements": [
+        " RAG를 활용한 AI Agent 서비스 개발 및 운영 경험",
+        " 여러 자료를 벡터 기반 DB로 설계 및 구축 경험",
+        " 표, 이미지, 텍스트 등 멀티모달 검색을 위한 문서 청킹 경험",
+        " 복잡한 비정형 데이터를 파싱해서 체계적이고 구조화된 메타데이터 설계가 가능한 분",
+        " Advanced RAG 를 위한 데이터베이스 설계 경험 있으신 분",
+        " Python 기반 백엔드 개발 경력 3년 이상 또는 이에 준하는 역량을 보유하신 분",
+        " FastAPI 등 웹 프레임워크 기반 API 서버 설계 및 운영 경험"
+      ],
+      "preferred": [
+        " RAG 관련 서비스 적용 경험",
+        " Ragas, TruLens 등 RAG 평가 프레임워크 활용 경험",
+        " VLM 활용 경험이 많으신 분",
+        " 개인정보 유출 방지 보안을 고려한 AI Agent 설계 경험",
+        " 특정 도메인 전문가와 협업하여 RAG 서비스를 개발한 경험"
+      ],
+      "tech_stack": [
+        "Python"
+      ],
+      "culture_tags": [
+        "유연근무"
+      ],
+      "benefits": "1. 근무 환경 및 일과 삶의 균형\r\n- 유연근무제(선택근무제): 9시 30분 자율 출근 및 주당 최대 1시간 30분 범위 내 유연한 출퇴근 조정\r\n- 조기 퇴근 제도 (Family Day): 주 1회, 1시간 30분 단축 근무\r\n   유연근무제 & 조기퇴근제 동시 사용 시 오후 3시 퇴근 가능\r\n- 리프레시 휴가: 3년, 5년, 7년, 10년 장기 근속 시 포상금 및 특별 휴가 제공\r\n\r\n2. 성장 지원 및 보상\r\n- 교육비 및 도서 지원: 직무 관련 자격증 취득 축하금, Code-IT 등 온라인 강의 지원\r\n\r\n3. 건강 및 생활 지원\r\n- 체력 단련비 지원: 월 1회 골프, 헬스, 필라테스 등 운동 비용 지원\r\n- 기념일 선물: 생일(15만 원 상당) 및 경조사비 지원",
+      "location": "서울 강남구",
+      "min_career": 3,
+      "max_career": 10,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-07T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:20.288408+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53309181,
+      "source_url": "https://www.jumpit.co.kr/position/53309181",
+      "company_name": "스카이월드와이드",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "GDB Engineer 채용",
+      "job_category": "웹 풀스택 개발자,DBA,SW/솔루션,QA 엔지니어,빅데이터 엔지니어,서버/백엔드 개발자",
+      "description": "저희 스카이월드와이드는 3D기반 생성형 AI 영상 제작 솔루션과 Graph Database기술을 보유한AI테크 기업으로써 파리에서 열린 유럽 최대 규모 테크 박람회 ‘VIVATECH’에서 ‘3D 기반 생성형 AI를 활용한 영상 제작 기술’을 통해 ‘LVMH 이노베이션 어워드’ 대상(1위)을 받은원천기술을 보유하고 있으며 국내유일 Graph Database제품을 보유하고 있습니다.현재 LVMH산하 브랜드 및 국내 주요 대기업들과 생성형AI기술을 활용한 영상제작 솔루션을 기반으로비즈니스를 하고 있으며 향후 글로벌 기업들과 지속적으로 GenAI기술을 활용한 비즈니스를 확장할 계획입니다.또한 온톨로지 기반 데이터분석 통합플랫폼을 런칭하여 한국의 팔란티어와 같은 기업으로 도약하고자 합니다.스카이월드와이드와 함께 미래를 이끌어갈 도전적인 인재를 찾습니다.",
+      "main_tasks": "* 도메인 특화 Graph 데이터 모델링 및 스키마 설계\r\n* 비정형/정형 데이터를 분석하여 비즈니스 로직에 최적화된 Graph 모델 설계\r\n* 대용량 그래프 데이터베이스 구축 및 운영* 대규모 지식그래프(Knowledge Graph) 적재를 위한 효율적인 ETL/ELT 파이프라인 개발\r\n* 그래프 쿼리 최적화 및 성능 튜닝* 복잡한 다중 홉(Multi-hop) 질의를 위한 Cypher등 쿼리 최적화\r\n* 대량의 실시간 데이터 인입 및 조회 성능 극대화를 위한 인덱싱 전략 수립",
+      "requirements": [
+        "* GDB 설계 및 운영 경력 2년 이상 필수",
+        "* Graph Query Language(Cypher, Gremlin 등) 숙련도 보유",
+        "* 개발 언어(Python, Java, Go 등 하나 이상)에 대한 높은 이해도"
+      ],
+      "preferred": [
+        "* 온톨로지/지식그래프 설계 및 구축 경험 우대",
+        "* GraphDB (Neo4j, ArangoDB, Neptune, AGE 등) 실무 도입 및 대규모 운영 경험",
+        "* MLOps 환경 구축 및 모델 배포 자동화 경험이 있으신 분",
+        "* 관련 전공(컴퓨터공학, 통계, 머신러닝, 수학 등) 석·박사 학위를 소지하고 계신 분",
+        "* GraphRAG 및 AI 연동 모듈 개발경험 우대",
+        "* LLM 서비스(GraphRAG)와의 연동을 위한 지식 추출 및 Graph 기반 컨텍스트 제공 API 개발경험 우대"
+      ],
+      "tech_stack": [
+        "Go",
+        "Java",
+        "Python",
+        "ArangoDB",
+        "Amazon Neptune"
+      ],
+      "culture_tags": [],
+      "benefits": "* 점심식대(식권대장 포인트) \r\n* 각종 경조사 및 건강검진 지원\r\n* 사내동호회 활동 지원\r\n* 업무에 필요한 장비 지원 \r\n* 업무에 필요한 유료소프트웨어 지원\r\n",
+      "location": "서울 강남구",
+      "min_career": 2,
+      "max_career": 20,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-09T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:23.206669+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53289655,
+      "source_url": "https://www.jumpit.co.kr/position/53289655",
+      "company_name": "비바이노베이션",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "Backend Developer",
+      "job_category": "DBA,서버/백엔드 개발자",
+      "description": "■ 회사소개\r\n\r\n착한의사는 건강보험심사평가원으로부터 제공받는 기업 맞춤형 의료빅데이터를 활용하여, 건강관리 필요성을 가장 강하게 느끼는 건강검진 전 후 여정을 케어하는 200만명 이용자와 370곳의 병원이 함께하는 국내 건강검진 No.1 의료 플랫폼이에요!\r\n\r\n\"매년 받는 건강검진이 뿌듯한 순간이 되도록\"\r\n\r\n■ 서비스 및 강점\r\n＜병원 찾기 서비스로 시작한 착한의사는 동네에 병원은 정말 많지만, 정작 아플 때 어떤 병원을 가야할 지 모르는 사용자에게 집중했어요.＞\r\n\r\n＜검진결과도 이제 종이가 아닌 모바일로 조회할 수 있어요.＞\r\n\r\n• A.I 증상체크 알고리즘: 1,300만 건의 의료빅데이터와 50만 건의 의학지식을 학습한 알고리즘입니다. 가톨릭서울성모병원의 의료진 검증 및 피드백을 반영하여 2018년 10월 정식 서비스를 출시했습니다.\r\n\r\n• 검진 예약 서비스: 사용자의 검진 결과를 바탕으로 필요한 검사항목을 추천하는 A.I 검사추천 알고리즘을 통해 병원 예약/결제를 모바일로 간편하게 지원합니다.\r\n\r\n• 기업 건강 복지 서비스: 스타트업부터 대기업까지 다양한 기업의 임직원에게 건강 복지 서비스를 제공하고 있습니다.\r\n\r\n■ 주요 성과 및 인증\r\n• 2024 IP-R&D 확산 인프라 구축 사업 선정\r\n• 2024 디지털인프라(SW) 진단 및 개선사업 선정\r\n• 2024 의료데이터 중심병원-스타트업 공동연구 사업 선정\r\n• 2024 강원 글로벌 액셀러레이팅 선정\r\n• 2024 Novartis Health X-Challenge 최종 우승\r\n• CES(국제전자제품박람회) 선정 및 참석\r\n• 의료기기 제조 및 품질관리 기준(GMP) 적합 인정\r\n• CES2025 혁신상 2관왕 수상\r\n• 착한의사 200만 유저 돌파 \r\n• 의료기기 품질 경영시스템 국제표준인증\r\n• 헬스케어 부문 올해의 앱 대상, 소비자 공헌대상, 병원 플랫폼 부문 서비스 혁신 대상, 의료정보 서비스 부문, 병원예약 부문, 모바일 기술대상(국무총리상), 소비자가 뽑은 서비스 고객 만족대상, DATA-Stars 우수기업 수상, 과학기술정보통신부 장관 수상 등 다양한 수상 및 인증\r\n\r\n\" 다양한 사업과 연구과제, 수상내역을 통해 꾸준히 발전하는 회사라는 것을 증명하고 있습니다! \"\r\n\r\n■ 투자현황\r\n• 시리즈 B 투자 : 189억 투자로 헬스케어 분야에 한층 성장하고 있습니다.\r\n\r\n■ 핵심가치\r\n1. 자유로운 소통\r\n2. 높은 책임감\r\n3. 상호 존중\r\n4. 겸손함\r\n5. 공동체 정신\r\n\r\n■ 일하는 자세\r\n1. 자유롭게 발언하고 토론합니다\r\n2.충돌하지만 서로를 신뢰합니다\r\n3. 정보를 투명하게 공유합니다\r\n4. 능동적인 몰입 추구합니다\r\n5. 합의하지 못해도 협의합니다\r\n6. 책임과 권한을 인정합니다\r\n7. 스스로 업무 주도합니다\r\n8. 동료의 일이 우리의 일입니다\r\n9. 성과는 혼자 달성할 수 없습니다\r\n10. 우리는 모두 원팀입니다",
+      "main_tasks": "• 착한의사 백엔드 서비스 개발",
+      "requirements": [
+        " REST API 백엔드 개발 및 운영 경험 5년 이상",
+        " 다양한 언어와 프레임워크(NestJS, FastAPI) 활용이 가능하신 분",
+        " RDBMS 효율적인 스키마 설계 및 트러블슈팅이 가능하신 분",
+        " AWS 주요 리소스 설정 및 활용 경험이 있으신 분"
+      ],
+      "preferred": [
+        " 팀장급 플레이어 겸 코치 역할이 가능하신 분",
+        " 운영 중인 서비스의 다양한 기술부채 개선이 능숙하신 분",
+        " 대규모 서비스 운영 노하우를 보유하신 분"
+      ],
+      "tech_stack": [
+        "REST API",
+        "AWS"
+      ],
+      "culture_tags": [
+        "자기계발비"
+      ],
+      "benefits": "• 점심식대 월 20만 원 지원\r\n• 자기계발비 지원(원하는 교육 또는 도서 신청)\r\n• 건강검진금 월 5만 원 지원\r\n• BEST VIVA인 숙박권 50만 원 지원\r\n• 이로움랩 100억 보장균 수 프리미엄 유산균 할인 및 비타민, 마그네슘, 오메가 등 영양제 무료 제공\r\n• 종합건강검진 연 30만 원 패키지 지원\r\n• 연 1회 독감 예방접종 지원(사무실 출장 접종)\r\n• 사내 카페 음료 할인(리더 70%, 직원 60% 할인)\r\n• 피트니스센터 할인(강남 프리미엄 시설 월 5만 원 이용)\r\n• 건강포상휴가(비흡연자 반기 1일 휴가 지급)\r\n• 경조사 및 기념일 지원(생일자 10만 원 상품권)\r\n• 야근시 야근 식대 및 택시비 지원\r\n• 장기근속자 포상휴가 및 휴가비 지원(3년~7년 근속별 포상휴가 3~7일 및 휴가비 30~70만 원)",
+      "location": "서울 강남구",
+      "min_career": 5,
+      "max_career": 10,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-08T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:25.291389+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53438404,
+      "source_url": "https://www.jumpit.co.kr/position/53438404",
+      "company_name": "넥서스커뮤니티",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "Web 개발자 채용",
+      "job_category": "웹 풀스택 개발자,개발 PM,서버/백엔드 개발자",
+      "description": "넥서스커뮤니티는 사람을 이어주는 디지털창조자를 꿈꾸며 1991년 설립 이후, 대한민국 최고의 콜센터 CTI Middleware를 개발하여 국내 시장의 리더가 되었으며, 기업 콜센터 생산성 향상 및 콜센터 이용 고객의 만족을 실현한 기술력을 바탕으로 IPCC, AICC 시장을 개척해 나가고 있습니다.\r\n\r\n[기업비전]\r\nCore Value를 통해 선제적 현식, 긍정적 책임, 전문적 탐구, 상호간 존중이라는 넥서스만의 가치를 실현하고자 합니다. 핵심 CS 솔루션 역량을 확보와 플랫폼 확장을 위한 파트너쉽 강화를 통하여 사람과 기술을 연결하는 최고의 CX Plarform Leader 의 비전을 실현하고자 합니다.\r\n\r\n[기업문화]\r\n넥서스커뮤니티는 대기업 수준의 선진기업문화를 구축하여 다니고 싶은 기업으로 손꼽히고 있습니다. 직원을 위한 다양한 복지시설과 복지문화 및 성장을 위한 혜택이 제공됩니다.",
+      "main_tasks": "• IPCC 플랫폼 벡엔드 개발 \r\n• ES(Engineering System) 플랫폼 벡엔드 개발 \r\n• 신규 서비스 설계 및 개발\r\n• 대용량 트래픽을 고려한 서버 설계\r\n• RESTful API 설계 및 연동",
+      "requirements": [
+        " 경력 8년 이상",
+        " 전문학사 이상"
+      ],
+      "preferred": [
+        " 상담 CRM 개발 /서비스 센터 CRM 경력",
+        " 오픈소스 공헌 및 관련 활동 경험",
+        " 스프링 기반 높은 개발 숙련도",
+        " AI 기반 기능 또는 AI 도구를 활용해 서비스 개발이나 개발 생산성을 개선해본 경험이 있으신 분",
+        " 자신이 작성한 코드의 품질과 결과에 책임감을 갖고 임할 수 있는 분",
+        " 팀워크를 중시하며 원활한 커뮤니케이션 능력을 갖추신 분"
+      ],
+      "tech_stack": [
+        "Git",
+        "Java",
+        "MySQL",
+        "React",
+        "Spring Boot",
+        "AWS",
+        "AI/인공지능",
+        "GCP",
+        "AZURE"
+      ],
+      "culture_tags": [
+        "자기계발비"
+      ],
+      "benefits": "집에 가기 싫어질 걸!\r\n• 복지몰 운영\r\n• 자기계발비 연간 최대 240만원 지원\r\n• 교통비, 대리운전, 통신비 지원\r\n• 회식비, 부서운영비 지원\r\n• 사내동호회, 여직원모임 지원\r\n• 원두커피머신, 휴게공간 제공\r\n\r\n힐링해야 일을 하지!\r\n• 매년 전직원 휴가 숙소비 20만원\r\n• 3/5/7/10/15/20년 근속 시, 최대 포상휴가 15일과 여행지원금 200만원\r\n\r\n건강은 회사가 챙긴다!\r\n• 매주 월요일 10시 출근\r\n• 매년 20만원 상당 종합건강검진 지원\r\n• 리더급 체력단련비 지원\r\n\r\n가족이 더 좋아해요!\r\n• 자녀 입학 축하금 및 학자금 지원\r\n• 각종 경조사는 기본\r\n• 명절상여금, 생일, 출산 축하 선물\r\n• 가족 초청행사 패밀리데이 운영\r\n\r\n서울 중심에 위치!\r\n• 을지로 3가역 도보 5분 거리\r\n• 힙지로 맛집 상권에 위치",
+      "location": "서울",
+      "min_career": 8,
+      "max_career": 15,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-24T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:26.518800+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53263548,
+      "source_url": "https://www.jumpit.co.kr/position/53263548",
+      "company_name": "이파피루스",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "백엔드 개발자(JAVA / 3~15년 / 팀원)",
+      "job_category": "서버/백엔드 개발자",
+      "description": "이파피루스는 오피스 트렌드를 리딩하고 독창적인 기술과 풍부한 노하우로 업무 혁신을 실현합니다.\r\n\r\n이파피루스는 문서를 작성하는 시점부터 종이가 발생하지 않는 페이퍼리스 솔루션을 제공합니다 . \r\n사용자 관점에서 종이 문서를 작성할 때보다 더 편리한 경험을 할 수 있도록 업무의 생산성을 높이는 전자문서 환경을 구축해 왔습니다 .\r\n2,000개가 넘는 다양한 페이퍼리스 솔루션 경험과 노하우를 바탕으로 보다 효율적이고 사용자를 편리하게 하는 오피스 트렌드에 앞장서는 기업이 되고자 합니다 .\r\n\r\n\r\n[기업비전]\r\n우리는 우리의 존재와 기술로, 사람의 가치를 높이고 자연을 지키는데 일장선다.\r\n1. 우리는 기술의 선도자로, 편리한 생활을 이루고 환경을 보호하는데 기여한다.\r\n2. 우리는 좋은 일터를 만들고 가꾸며, 이를 더 많은 사람과 나누기 위해 노력한다.\r\n3. 우리는 사회적 책임과 양심을 따르는 윤리적인 기업을 만들어나간다.\r\n\r\n한 사람의 천재가 아닌 모두와 함께 궁리하고 토론하여, 시대가 필요로 하는 기술을 개발하고 제품과 서비스를 만들어 많은 사람들이 혜택을 누리게 합니다.\r\n항상 배우고 익히며, 도전과 경험, 반성을 통해 발전하며, 타성을 경계하고 현명하게 일하겠습니다.\r\n\r\n※ 이파피루스 홈페이지: https://epapyrus.com/\r\n※ 이파피루스 블로그: https://epapyrus.tistory.com/",
+      "main_tasks": "• 신규 제품 기획 및 개발\r\n• 기존 제품군 기능 개선 및 추가\r\n• 기술자료 작성 및 관리",
+      "requirements": [
+        " Java Application 개발 경험 3년-15년",
+        " Spring framework 3.x 이상의 환경에서의 API 설계 경험 보유하신 분",
+        " 스스로 데이터베이스를 설계하고 개발/운영 경험하신 분",
+        " 2~3명 이상 규모의 개발 프로젝트 리딩 경험 보유하신 분 (선택사항)"
+      ],
+      "preferred": [
+        " Java/Spring/자료구조/스레드 프로그래밍에 대한 깊은 이해도가 있으신 분",
+        " Spring Boot 및 Spring Cloud 어플리케이션 사용 경험이 있으신 분",
+        " 객체지향적 사고방식을 갖추신 분",
+        " 큰 어려움 없이 해당 분야 영문 기술자료를 이해할 수 있는 수준의 영어 역량을 갖추신 분",
+        " Jenkins 기반의 CI/CD 활용 경험이 있으신 분",
+        " Git/Git flow/AWS 사용 경험이 있으신 분",
+        " RESTful API 설계 또는 작성 경험이 있으신 분",
+        " '읽기 좋은 코드가 좋은 코드' 라는 가치관 보유하신 분",
+        " Java 1.6 이상의 JVM thread dump 분석 가능하신 분",
+        " 1개 이상의 Message Queue 기술 실무 경험이 있으신 분",
+        " 대용량 분산처리 경험이 있으신 분",
+        " 코딩역량인증(PCCP, PCCE) 인증서 보유하신 분"
+      ],
+      "tech_stack": [
+        "Java",
+        "MongoDB",
+        "MySQL",
+        "Python",
+        "Spring",
+        "Spring Boot",
+        "AWS",
+        "JSP",
+        "Mybatis",
+        "NoSql"
+      ],
+      "culture_tags": [
+        "수평적",
+        "자유연차"
+      ],
+      "benefits": "[가치제안]\r\n• 문서 기반의 커뮤니케이션을 중점적으로 하고 있어, 문서화 업무 협업 경험을 할 수 있습니다.\r\n• 단순 디자인 구현이 아닌 고수준의 기능을 많이 요구하므로, 설계 및 문제 해결 능력을 개발할 수 있습니다.\r\n• SDK 등 개발자를 대상으로 하는 개발이 많이 이뤄지고 있어, DX(Developer Experience)에 대한 이해도를 높일 수 있습니다.\r\n• 글로벌 팀과의 협업을 통해 다양한 문화권 사이에서의 커뮤니케이션 스킬을 향상시킬 수 있습니다.\r\n\r\n[근무환경]\r\n• 수평적인 조직문화, 복장/연차(시간단위) \"완전\" 자유\r\n• 불필요한 야근/회식 강요없음\r\n• 최고수준 개발장비, 풍족한 간식/음료 제공\r\n\r\n[다양한 지원제도]\r\n• 전월세 자금 대출, 암/실손보험 가입\r\n• 내일채움공제 가입, 퇴직연금제도 시행\r\n• 식대 지원, 경조사비/휴가 지원\r\n• 사내 동호회 지원",
+      "location": "경기 성남시 분당구",
+      "min_career": 3,
+      "max_career": 15,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-24T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:28.060286+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53249702,
+      "source_url": "https://www.jumpit.co.kr/position/53249702",
+      "company_name": "비큐에이아이",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "백엔드개발자(경력)",
+      "job_category": "서버/백엔드 개발자",
+      "description": "비큐AI는 1998년 설립하여 현재까지 국내 3,000여 언론 파트너사와 비즈니스를 하고 있는 빅테이터 미디어 플랫폼 기업으로 글로벌 미디어 오픈 플랫폼을 지향하는 기업으로 성장하고 있습니다. 전 세계 언론 미디어 플랫폼 시장은 방대한 규모를 형성하고 있으나 아직 국내외 언론 미디어 플랫폼 시장은 언론 콘텐츠의 특성으로 인해 한계를 가지고 있습니다.\r\n비큐AI는 언론 미디어 기반의 새로운 오픈 플랫폼을 성공시켜 세상이 더욱 깨끗해질 수 있는 거대한 미디어 생태계를 만드는 일을 하기 위해 훌륭한 인재들을 채용하고 있습니다.\r\n    \r\n*MISSION - 미디어 빅데이터 & AI플랫폼을 통한 데이터의 새로운 가치 창출   \r\n\r\n*새롭게 합류할 분을 기다립니다.  \r\n#AI_100대 유망기업 #인공지능 #미디어_빅데이터 #AI_surfer #WIGO #WIGO_bot #코스닥상장사\r\n",
+      "main_tasks": "1. 웹 크롤러 및 스크래퍼 설계, 개발 및 유지보수\r\n정적/동적 웹사이트 데이터 수집 로직 구현\r\n대량 수집 환경에서의 차단 우회 및 안정성 개선\r\n수집 데이터 정제 및 DB 적재 자동화\r\n사이트 구조 변경 대응 및 크롤러 유지관리\r\n모니터링 및 로그 분석 후 대응\r\n데이터 수집 분산 시스템 구성\r\n\r\n[기술스텍]\r\n\r\n1. Python 기반 웹 스크래핑 및 API(FastAPI)연동\r\nHTML / CSS / DOM 구조 이해, ProxyIP 구조 이해\r\nXml, API , RSS 수집, 정제, 저장 구현\r\n\r\n2. 데이터 저장\r\nMySQL / PostgreSQL / MongoDB\r\n로그 분석 : ELK",
+      "requirements": [
+        " 3 ~ 7년 이상의 백엔드 개발 관련 경험이 있으신 분"
+      ],
+      "preferred": [],
+      "tech_stack": [
+        "Python",
+        "ELK",
+        "HTML5",
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL"
+      ],
+      "culture_tags": [
+        "자유연차"
+      ],
+      "benefits": "• 자유로운 연차/휴가 사용 가능, 정시 퇴근, 강요 없는 회식 참석\r\n• 나이나 직급 관계없이 모든 직원 '프로님' 호칭 및 존댓말 사용\r\n• 징검다리 휴무 전사 권장 연차 실시\r\n• 회사의 방향성과 의견을 공유하는 대표이사 '타운홀(Town-hall)' 미팅 시행\r\n• Summer Cool Biz 시행 (여름휴가 기간 반바지 권장 착용)\r\n• 최고급 수준의 호텔과 리조트 (소노호텔앤리조트 럭셔리 골드A평형) 회원가 이용 지원\r\n• 업무 관련 장비 및 소프트웨어 100% 지원\r\n• 근속 포상제도 운영으로 상패와 부상, Refresh 휴가 지원 (만 3년, 5년, 10년 이상 근속)\r\n• 임직원 건강검진 지원 (협약병원 : 서울베스트의료의원)\r\n• 복날 맞이 으랏차차 이벤트 진행\r\n• 창랍기념일 행사 (영화관람 등) 후 오후 반일 휴무\r\n• 명절 선물세트 지급 (설, 추석)\r\n• 명절 연휴 전일 오후 반일 휴무\r\n• 개인별 상반신 이미지 프로필 사진 촬영",
+      "location": "서울 중구",
+      "min_career": 3,
+      "max_career": 7,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-04T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:30.907697+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53439514,
+      "source_url": "https://www.jumpit.co.kr/position/53439514",
+      "company_name": "엔엑스",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "프론트엔드 개발자 경력 [서울]",
+      "job_category": "SW/솔루션,빅데이터 엔지니어,devops/시스템 엔지니어,서버/백엔드 개발자,HW/임베디드",
+      "description": "엔엑스는 글로벌에서 인정 받고 있는 에너지최적화 분야 대한민국 No.1 기후테크 기업입니다.\r\n\r\n1. 전 세계 기후 위기에 관심 있는 인재를 모십니다!\r\n우리는 \"\"선한 영향력으로 이로운 세상 만들기\"\" 라는 미션으로 뭉친 사람들입니다.\r\n엔엑스와 함께 사람과 사람, 기술과 기술, 현재와 미래를 연결하여 세상에 새로운 에너지 경험을 제공할 사람을 찾고 있습니다.\r\n\r\n2. 고객과 건물을 위한 최고의 에너지 솔루션을 제공합니다!\r\n엔엑스는 AI 자율운전 스마트빌딩 팩토리 솔루션, enbrix를 서비스 중입니다. 엔엑스의 솔루션은 고객과 건물의 요구에 맞춤형으로 구성되어 (1) 에너지 절감 및 추적, (2) 에너지 관리, 그리고 (3) 안전사고 방지에 탁월한 서비스를 제공합니다. 이렇게 모인 enbrix의 빅데이터를 활용하여 AI가 에너지 최적화 로드맵을 구축합니다.\r\n\r\n3. 에너지 패러다임의 혁신을 약속합니다!\r\n엔엑스는 세계적인 시장조사기관인 Global Market Insights이 선정한 EMS 분야 글로벌 핵심 키플레이어입니다. 총 22개 글로벌 기업들 중, 엔엑스는 국내에서 유일하게 선정된 기업입니다. 또한 전세계 1위부터 10위(단일 사이트당 IoT 디바이스 설치 수 기준)의 기록을 갱신하였으며, 이 기록들은 엔엑스의 신규 프로젝트와 함께 지속적으로 갱신되고 있습니다.\r\n\r\n4. 공간의 변화를 넘어 새로운 에너지 경험을 선도합니다!\r\n우리는 단편적인 에너지 모니터링만 가능한 기존의 EMS모델을 혁신하여 건물의 생애주기동안 에너지를 최적화하는 서비스를 제공합니다. 이는 단순한 비용절감을 넘어서 빅데이터와 AI를 활용한 전략적인 넷제로 로드맵을 제시합니다. 뿐만 아니라 지속가능한 에너지 최적화와 관리를 통해 ESG경영을 실현하게 합니다. 우리는 기존의 에너지 패러다임을 넘어 모든 공간에서 혁신을 가능하게 할 것입니다.\r\n\r\n엔엑스와 함께 ESG와 탄소중립을 선도하시겠습니까?",
+      "main_tasks": "• 에너지IT & 스마트빌딩 팩토리 솔루션 프론트엔드 서비스 연구 개발",
+      "requirements": [
+        "ㆍ경력 5년 이상",
+        "ㆍReact, Vue등 프레임워크 사용 경험이 있으신 분",
+        "ㆍComponent 기반 설계 및 개발 경험을 보유하신 분",
+        "ㆍJavaScript및 TypeScript에 대한 전반적인 이해",
+        "ㆍ접근성, 웹표준, 반응형 웹에 대한 이해와 경험",
+        "ㆍNoSQL, RDB 기반 데이터 모델링 및 쿼리 작성 역량",
+        "ㆍ새로운 환경에 도전하는 오픈마인드를 가진 분",
+        "ㆍ유연한 커뮤니케이션을 통한 협업이 가능한 분"
+      ],
+      "preferred": [
+        "ㆍAndroid, iOS Native 개발 경험 있으신 분",
+        "ㆍAI 도구를 활용한 코드 작성, 리팩토링, 테스트 코드 생성 경험을 보유하신분"
+      ],
+      "tech_stack": [
+        "SW",
+        "iOS",
+        "JavaScript",
+        "React",
+        "TypeScript",
+        "NoSql",
+        "RDB",
+        "styled-components",
+        "Web Components"
+      ],
+      "culture_tags": [
+        "유연근무"
+      ],
+      "benefits": "NX Work Life\r\n• 7시간 근무(10:00 ~ 18:00)\r\n• 유연근무(1회/월)\r\n• 쉼표데이(분기)\r\n• 마이데이(1회/연)\r\n• Team Building Day(워크샵, 야유회)\r\n• 정기 회식(대면, 비대면)\r\n\r\nNX Bonus\r\n• PS\r\n• 정기 인센티브 지급\r\n• 비정기 인센티브 지급\r\n• 포상\r\n\r\nNX Skill-up\r\n• 도서 구매 지원\r\n• 외부 교육 지원\r\n\r\nNX Basic\r\n• Welcome Kit 제공\r\n• Conggrats Kit 제공",
+      "location": "서울 서초구",
+      "min_career": 5,
+      "max_career": 10,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-23T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:33.686865+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53439534,
+      "source_url": "https://www.jumpit.co.kr/position/53439534",
+      "company_name": "앵커스",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "Front end 개발 리더 채용 (14-20년)",
+      "job_category": "기술지원,웹 풀스택 개발자,SW/솔루션,빅데이터 엔지니어,프론트엔드 개발자,서버/백엔드 개발자",
+      "description": "혁신적인 솔루션, 탁월한 실행력. 앵커스는 각 분야의 전문가들이 모여\r\n기술적 풍랑을 디지털 성장의 기회로 만드는 회사입니다.",
+      "main_tasks": "• Front end 개발 기술 스택 및 구조 표준화\r\n• 프로젝트 별 Front end 개발 품질 기준 설정 및 리뷰\r\n• 내부/외부 Front end 개발 인력 리딩\r\n• 영업·기획 단계 기술 신뢰도 확보",
+      "requirements": [
+        " 경력 9년 ~ 20년",
+        " React / TypeScript 기반 실무 5년 이상",
+        " Front end 개발팀 리딩 또는 아키텍처 설계 경험",
+        " 코드리뷰 기준 및 기술 방향을 제시할 수 있는 수준"
+      ],
+      "preferred": [
+        " SI 프로젝트 환경 경험자 우대"
+      ],
+      "tech_stack": [
+        "React",
+        "TypeScript"
+      ],
+      "culture_tags": [],
+      "benefits": "• 탄력근무제  : 프로젝트별 유연한 출퇴근 시간을 갖습니다.\r\n• 리프레시 휴가 : 매년 리프레시 휴가를 드립니다.\r\n• 웰컴키트 제공 : 신규 입사자를 위한 웰컴키트를 제공합니다.\r\n• 통신비 지원 : 매월 통신비를 지원해 드립니다.\r\n• 사내 스낵바 운영 : 음료와 간식을 365일 무한 제공해 드립니다.\r\n• 업무 교통비 지원 : 업무로 인한 교통비를 지원해 드립니다.\r\n• 인재 추천 보상 : 사내 인재 추천 인센티브를 제공해 드립니다.\r\n• 교육비 / 도서 지원 : 업무 능력 향상을 위한 교육 및 도서비 등을 지원해 드립니다.\r\n• 팀별 회식비 지원 : 팀워크를 다지는 팀별 회식비를 지원해 드립니다.\r\n• 동호회 활동 지원 : 취미 활동을 위한 사내 동호회 활동을 지원해 드립니다.\r\n• 경조사 지원 : 경조사 발생 시 경조금 및 경조휴가를 지원해 드립니다.\r\n• 의료비 지원 : 매년 의료비를 지원해 드립니다.\r\n• 명절/기념일 선물 : 명절선물, 생일 상품권을 제공합니다.",
+      "location": "서울 마포구",
+      "min_career": 14,
+      "max_career": 20,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-23T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:36.374296+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53439526,
+      "source_url": "https://www.jumpit.co.kr/position/53439526",
+      "company_name": "앵커스",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "Front end 개발 리더 채용 (9-13년)",
+      "job_category": "기술지원,웹 풀스택 개발자,SW/솔루션,빅데이터 엔지니어,프론트엔드 개발자,서버/백엔드 개발자",
+      "description": "혁신적인 솔루션, 탁월한 실행력. 앵커스는 각 분야의 전문가들이 모여\r\n기술적 풍랑을 디지털 성장의 기회로 만드는 회사입니다.",
+      "main_tasks": "• Front end 개발 기술 스택 및 구조 표준화\r\n• 프로젝트 별 Front end 개발 품질 기준 설정 및 리뷰\r\n• 내부/외부 Front end 개발 인력 리딩\r\n• 영업·기획 단계 기술 신뢰도 확보",
+      "requirements": [
+        " 경력 9년 ~ 20년",
+        " React / TypeScript 기반 실무 5년 이상",
+        " Front end 개발팀 리딩 또는 아키텍처 설계 경험",
+        " 코드리뷰 기준 및 기술 방향을 제시할 수 있는 수준"
+      ],
+      "preferred": [
+        " SI 프로젝트 환경 경험자 우대"
+      ],
+      "tech_stack": [
+        "React",
+        "TypeScript"
+      ],
+      "culture_tags": [],
+      "benefits": "• 탄력근무제  : 프로젝트별 유연한 출퇴근 시간을 갖습니다.\r\n• 리프레시 휴가 : 매년 리프레시 휴가를 드립니다.\r\n• 웰컴키트 제공 : 신규 입사자를 위한 웰컴키트를 제공합니다.\r\n• 통신비 지원 : 매월 통신비를 지원해 드립니다.\r\n• 사내 스낵바 운영 : 음료와 간식을 365일 무한 제공해 드립니다.\r\n• 업무 교통비 지원 : 업무로 인한 교통비를 지원해 드립니다.\r\n• 인재 추천 보상 : 사내 인재 추천 인센티브를 제공해 드립니다.\r\n• 교육비 / 도서 지원 : 업무 능력 향상을 위한 교육 및 도서비 등을 지원해 드립니다.\r\n• 팀별 회식비 지원 : 팀워크를 다지는 팀별 회식비를 지원해 드립니다.\r\n• 동호회 활동 지원 : 취미 활동을 위한 사내 동호회 활동을 지원해 드립니다.\r\n• 경조사 지원 : 경조사 발생 시 경조금 및 경조휴가를 지원해 드립니다.\r\n• 의료비 지원 : 매년 의료비를 지원해 드립니다.\r\n• 명절/기념일 선물 : 명절선물, 생일 상품권을 제공합니다.",
+      "location": "서울 마포구",
+      "min_career": 9,
+      "max_career": 13,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-23T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:39.154258+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53437959,
+      "source_url": "https://www.jumpit.co.kr/position/53437959",
+      "company_name": "펫박스",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "Python 백엔드 개발자_9년이상",
+      "job_category": "DBA,devops/시스템 엔지니어,서버/백엔드 개발자,프론트엔드 개발자",
+      "description": "업무 소개\r\n펫박스는 반려동물 유통시장을 혁신하기 위해 도전하는 스타트업입니다.\r\n\r\n반려동물 인구 1500만명.\r\n반려동물 평균 수명 16년, 10,912만원 소요.\r\n반려견 632만 마리 / 반려묘 243만 마리.\r\n\r\n펫시장은 폭발적으로 성장하고 있지만, 공급자 중심의 기형적 구조로 성장한 유통구조는\r\n전통적인 오프라인 유통구조로 비효율적이고, 데이터를 활용하지 않아 파편화 되어 있습니다.\r\n\r\n2020년 펫시장은 3.3조원이고, 그중 사료 시장은 1.3조원입니다!\r\n펫박스는 기술과 데이터를 이용해 1.3조원의 산업을 디지털화하여 사료 시장의 유통구조를 혁신하려고 합니다. \r\n\r\n펫박스의 이런 도전을 응원해주는 \r\n\r\n매쉬업엔젤스\r\n기술보증기금\r\n한국투자파트너스\r\n\r\n에서는 펫박스의 비전을 믿고 항상 지지하고 있습니다!",
+      "main_tasks": "커머스 백엔드를 기본으로 하지만, 규제와 라이센스 기반의 산업 특성과 그로 인한 독창적인 소싱/발주/주문/결제 시스템을 잘 반영해야 하는 서비스입니다.\r\n• 펫박스의 자체 대쉬보드 브레인를 개발하고 서버 인프라를 담당합니다.\r\n• 펫박스 / 어드민 (대쉬보드)\r\n• 관리자로서 소싱/주문/재고/결제를 모니터링할 수 있는 관리자 사이트\r\n• 펫박스 / Back Office\r\n• 관리자로서 서비스를 운영할 수 있는 관리자 사이트\r\n• 지속적인 시스템 모니터링을 통한 성능 추적 및 개선 업무\r\n\r\n펫박스에서 경험하실 수 있는 것\r\n• 비즈니스 모델이 될 수 있는 데이터를 다룰 수 있습니다.\r\n• 반려동물 품종 데이터\r\n• 펫박스는 현재 상품 데이터의 스탠다드를 만들고 있으며, 품종, 알러지, 식습관 기반의 데이터를 통해 상품 큐레이션 제공.\r\n• 대한민국 반려동물 사료 및 용품 유통 데이터\r\n• 권역 별로 유통되는 상품과 유통량 데이터를 확보하여, 대리점 및 소매점에게는 예상 판매지표 및 영업에 필요한 데이터 제공. 예비 사장님들에게 해당 상권의 상품 대금 데이터를 통한 예상 매출액 제공 및 트렌드 제공.\r\n• 반려동물 용품 수입 데이터\r\n• 분기/계절별 수입량, 수입량 데이터를 기반으로 수입 사료 트렌드 분석 및 예상 수요 데이터 제공. 예약 판매 기능을 통한 소매점의 예상 수요 데이터 제공.\r\n\r\n현재 기술 스택과 환경은 다음과 같습니다.\r\n(초기 이기 때문에, 원하는 기술이 있다면 자유롭게 만들어 나갈 수 있습니다.)\r\n• Python\r\n• Selenium\r\n• PHP\r\n• Codeigniter\r\n• Mysql\r\n• AWS",
+      "requirements": [
+        " 펫에 대한 서비스를 만들어야 하기 때문에 펫을 사랑하시는 분이 함께하면 좋겠습니다!!",
+        " 최신 기술 도입에 거부감은 없지만 트렌드에 맹목적이지 않고, 오버 엔지니어링을 지양하며, 서비스와 규모에 맞는 적정 기술을 좋아하시는 분을 찾습니다!! 이런분들 드물죠:)",
+        " 파이썬 백엔드 개발 경력 6년 이상이신 분",
+        " 커머스/풀필먼트/해외 구매대행 특성을 이해하고 개발 경험이 있으신 분",
+        " Python 로 서버 개발해보신 분",
+        " AWS를 이용한 인프라 운영 경험이 있으신 분",
+        " 문제해결 능력이 뛰어나고, 커뮤니케이션이 솔직하신 분"
+      ],
+      "preferred": [
+        " 커머스/오픈마켓/주문 중개 특성을 이해하고 개발 경험이 있으신 분",
+        " 작은 서비스여도 혼자서 기획부터 출시까지 해 본 경험이 있으신 분",
+        " CRM / ERP 등 B2B 서비스 개발 경험이 있으신 분",
+        " 테스트 및 CI/CD 구성/관리 경험이 있으신 분",
+        " 솔직한 피드백을 주고 받는 것을 즐기는 분",
+        " 프로젝트 결정시 갑론을박하되, 결정되면 서로 믿고 지지할 수 있는 분",
+        " 컴퓨터공학 전공자 우대",
+        "그리고 펫박스는",
+        "비즈니스에 집중하여 일을 즐기고, 잘하는 분들이 함께 서로 배우고",
+        "성장할수있는 환경을 만들려는 분과 함께하고 싶어요~~"
+      ],
+      "tech_stack": [
+        "CodeIgniter",
+        "MySQL",
+        "PHP",
+        "Python",
+        "Selenium",
+        "AWS"
+      ],
+      "culture_tags": [
+        "재택근무",
+        "스톡옵션"
+      ],
+      "benefits": "* 홍대입구역 6번 출구 도보 7분 거리 역세권 사무실 \r\n서울특별시 마포구 와우산로30길 18\r\n\r\n💪 서로의 역할과 업무를 이해하고 협업하는 팀과 구성원\r\n\r\n\r\n🏖️ 맘 놓고 휴가를 가도, 아파도 되는 유기적인 역할 조직\r\n\r\n❌ 규칙이 없는 것이 규칙인 환경\r\n\r\n💻 자율 휴가/ 재택 원격 근무\r\n\r\n🏬 핫플레이스 홍대 5분 거리 위치 \r\n\r\n🗣 개별 미팅룸, 휴식 공간, 라운지, 부스폰 등 홀을 갖춘 공간\r\n\r\n🥃 커피/ 씨리얼 등 F&B 제공\r\n\r\n🍽️ 식대 제공\r\n\r\n🖥️ 업무 포지션에 맞춘 랩탑과 모니터 제공\r\n\r\n🛒 펫박스몰 임직원 할인\r\n\r\n🎸 학사 100% , 석사 90% 학자금 지급\r\n\r\n*스톡옵션 1-2% 지급 기회 ",
+      "location": "서울 마포구",
+      "min_career": 9,
+      "max_career": 20,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-23T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:46.115632+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53437940,
+      "source_url": "https://www.jumpit.co.kr/position/53437940",
+      "company_name": "펫박스",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "이커머스 풀스택 팀장 앱·웹 채용",
+      "job_category": "서버/백엔드 개발자,프론트엔드 개발자",
+      "description": "펫박스는 반려동물 유통시장을 혁신하기 위해 도전하는 스타트업입니다.\r\n\r\n반려동물 인구 1500만명.\r\n반려동물 평균 수명 16년, 10,912만원 소요.\r\n반려견 632만 마리 / 반려묘 243만 마리.\r\n\r\n펫시장은 폭발적으로 성장하고 있지만, 공급자 중심의 기형적 구조로 성장한 유통구조는\r\n전통적인 오프라인 유통구조로 비효율적이고, 데이터를 활용하지 않아 파편화 되어 있습니다.\r\n\r\n2020년 펫시장은 3.3조원이고, 그중 사료 시장은 1.3조원입니다!\r\n펫박스는 기술과 데이터를 이용해 1.3조원의 산업을 디지털화하여 사료 시장의 유통구조를 혁신하려고 합니다. \r\n\r\n펫박스의 이런 도전을 응원해주는 \r\n\r\n매쉬업엔젤스\r\n\r\n기술보증기금\r\n\r\n한국투자파트너스\r\n\r\n에서는 펫박스의 비전을 믿고 항상 지지하고 있습니다!",
+      "main_tasks": "1. 각종 서비스 유지보수 및 기능개발\r\n  - 모든 서비스(커머스, 커뮤니티, 푸시, 인증 등)\r\n  - 내부 백오피스 서비스\r\n  - 프론트, 백앤드\r\n\r\n2. 서비스 관련, AWS 인프라 관리\r\n  - 이벤트 예정 시, 안정된 서비스 유지를 위해 리소스 스펙 조정\r\n  - 이슈 대응\r\n3. 프로젝트 관련 검토 및 일정 조율\r\n4. 개발팀 관리 및 신규 인원 채용\r\n  - 업무 분장 및 목표 관리",
+      "requirements": [
+        " 펫에 대한 서비스를 만들어야 하기 때문에 펫을 사랑하시는 분이 함께하면 좋겠습니다!!",
+        "최신 기술 도입에 거부감은 없지만 트렌드에 맹목적이지 않고,",
+        "오버 엔지니어링을 지양하며, 서비스와 규모에 맞는 적정 기술을 좋아하시는 분을 찾습니다!!",
+        "이런분들 드물죠:)",
+        "풀스택으로 서비스를 개발해본 유경험자",
+        "AWS인프라 초기 환경 구축 및 관리 유경험자",
+        "프론트앤드, 백앤드 팀관리 유경험자",
+        "커머스/풀필먼트/해외 구매대행 특성을 이해하고 개발 경험이 있으신 분",
+        "문제해결 능력이 뛰어나고, 커뮤니케이션이 솔직하신 분"
+      ],
+      "preferred": [
+        " 모노레포 구조로 서비스 구축 유경험자 (Turborepo 사용)",
+        "AWS 인프라 중, Postgresql, Redis, EKS, SQS, Argocd, Jenkins을 사용하여 인프라 구축 유경험자",
+        "TanStack Query 사용 유경험자",
+        "MSW 사용 유경험자",
+        "커머스, 커뮤니티 서비스 유경험자",
+        "푸시 서비스 운영 및 구축 유경험자",
+        "Spring Boot, Next.js 등 프레임워크 사용 유경험자",
+        "Python 언어 및 django, fastApi 사용 유경험자"
+      ],
+      "tech_stack": [
+        "Amazon EKS",
+        "Amazon SQS",
+        "PostgreSQL",
+        "Redis",
+        "AWS"
+      ],
+      "culture_tags": [
+        "재택근무",
+        "스톡옵션"
+      ],
+      "benefits": "* 홍대입구역 6번 출구 도보 7분 거리 역세권 사무실 \r\n서울특별시 마포구 와우산로30길 18\r\n\r\n💪 서로의 역할과 업무를 이해하고 협업하는 팀과 구성원\r\n\r\n\r\n🏖️ 맘 놓고 휴가를 가도, 아파도 되는 유기적인 역할 조직\r\n\r\n❌ 규칙이 없는 것이 규칙인 환경\r\n\r\n💻 자율 휴가/ 재택 원격 근무\r\n\r\n🏬 핫플레이스 홍대 5분 거리 위치 \r\n\r\n🗣 개별 미팅룸, 휴식 공간, 라운지, 부스폰 등 홀을 갖춘 공간\r\n\r\n🥃 커피/ 씨리얼 등 F&B 제공\r\n\r\n🍽️ 식대 제공\r\n\r\n🖥️ 업무 포지션에 맞춘 랩탑과 모니터 제공\r\n\r\n🛒 펫박스몰 임직원 할인\r\n\r\n🎸 학사 100% , 석사 90% 학자금 지급\r\n\r\n*스톡옵션 1-2% 지급 기회 ",
+      "location": "서울 마포구",
+      "min_career": 8,
+      "max_career": 15,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-23T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:47.599217+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53437934,
+      "source_url": "https://www.jumpit.co.kr/position/53437934",
+      "company_name": "펫박스",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "Python 백엔드 개발자_6년~8년 채용",
+      "job_category": "DBA,devops/시스템 엔지니어,서버/백엔드 개발자,프론트엔드 개발자",
+      "description": "업무 소개\r\n펫박스는 반려동물 유통시장을 혁신하기 위해 도전하는 스타트업입니다.\r\n\r\n반려동물 인구 1500만명.\r\n반려동물 평균 수명 16년, 10,912만원 소요.\r\n반려견 632만 마리 / 반려묘 243만 마리.\r\n\r\n펫시장은 폭발적으로 성장하고 있지만, 공급자 중심의 기형적 구조로 성장한 유통구조는\r\n전통적인 오프라인 유통구조로 비효율적이고, 데이터를 활용하지 않아 파편화 되어 있습니다.\r\n\r\n2020년 펫시장은 3.3조원이고, 그중 사료 시장은 1.3조원입니다!\r\n펫박스는 기술과 데이터를 이용해 1.3조원의 산업을 디지털화하여 사료 시장의 유통구조를 혁신하려고 합니다. \r\n\r\n펫박스의 이런 도전을 응원해주는 \r\n\r\n매쉬업엔젤스\r\n기술보증기금\r\n한국투자파트너스\r\n\r\n에서는 펫박스의 비전을 믿고 항상 지지하고 있습니다!",
+      "main_tasks": "커머스 백엔드를 기본으로 하지만, 규제와 라이센스 기반의 산업 특성과 그로 인한 독창적인 소싱/발주/주문/결제 시스템을 잘 반영해야 하는 서비스입니다.\r\n• 펫박스의 자체 대쉬보드 브레인를 개발하고 서버 인프라를 담당합니다.\r\n• 펫박스 / 어드민 (대쉬보드)\r\n• 관리자로서 소싱/주문/재고/결제를 모니터링할 수 있는 관리자 사이트\r\n• 펫박스 / Back Office\r\n• 관리자로서 서비스를 운영할 수 있는 관리자 사이트\r\n• 지속적인 시스템 모니터링을 통한 성능 추적 및 개선 업무\r\n\r\n펫박스에서 경험하실 수 있는 것\r\n• 비즈니스 모델이 될 수 있는 데이터를 다룰 수 있습니다.\r\n• 반려동물 품종 데이터\r\n• 펫박스는 현재 상품 데이터의 스탠다드를 만들고 있으며, 품종, 알러지, 식습관 기반의 데이터를 통해 상품 큐레이션 제공.\r\n• 대한민국 반려동물 사료 및 용품 유통 데이터\r\n• 권역 별로 유통되는 상품과 유통량 데이터를 확보하여, 대리점 및 소매점에게는 예상 판매지표 및 영업에 필요한 데이터 제공. 예비 사장님들에게 해당 상권의 상품 대금 데이터를 통한 예상 매출액 제공 및 트렌드 제공.\r\n• 반려동물 용품 수입 데이터\r\n• 분기/계절별 수입량, 수입량 데이터를 기반으로 수입 사료 트렌드 분석 및 예상 수요 데이터 제공. 예약 판매 기능을 통한 소매점의 예상 수요 데이터 제공.\r\n\r\n현재 기술 스택과 환경은 다음과 같습니다.\r\n(초기 이기 때문에, 원하는 기술이 있다면 자유롭게 만들어 나갈 수 있습니다.)\r\n• Python\r\n• Selenium\r\n• PHP\r\n• Codeigniter\r\n• Mysql\r\n• AWS",
+      "requirements": [
+        " 펫에 대한 서비스를 만들어야 하기 때문에 펫을 사랑하시는 분이 함께하면 좋겠습니다!!",
+        " 최신 기술 도입에 거부감은 없지만 트렌드에 맹목적이지 않고, 오버 엔지니어링을 지양하며, 서비스와 규모에 맞는 적정 기술을 좋아하시는 분을 찾습니다!! 이런분들 드물죠:)",
+        " 파이썬 백엔드 개발 경력 6년 이상이신 분",
+        " 커머스/풀필먼트/해외 구매대행 특성을 이해하고 개발 경험이 있으신 분",
+        " Python 로 서버 개발해보신 분",
+        " AWS를 이용한 인프라 운영 경험이 있으신 분",
+        " 문제해결 능력이 뛰어나고, 커뮤니케이션이 솔직하신 분"
+      ],
+      "preferred": [
+        " 커머스/오픈마켓/주문 중개 특성을 이해하고 개발 경험이 있으신 분",
+        " 작은 서비스여도 혼자서 기획부터 출시까지 해 본 경험이 있으신 분",
+        " CRM / ERP 등 B2B 서비스 개발 경험이 있으신 분",
+        " 테스트 및 CI/CD 구성/관리 경험이 있으신 분",
+        " 솔직한 피드백을 주고 받는 것을 즐기는 분",
+        " 프로젝트 결정시 갑론을박하되, 결정되면 서로 믿고 지지할 수 있는 분",
+        " 컴퓨터공학 전공자 우대",
+        "그리고 펫박스는",
+        "비즈니스에 집중하여 일을 즐기고, 잘하는 분들이 함께 서로 배우고",
+        "성장할수있는 환경을 만들려는 분과 함께하고 싶어요~~"
+      ],
+      "tech_stack": [
+        "CodeIgniter",
+        "MySQL",
+        "PHP",
+        "Python",
+        "Selenium",
+        "AWS"
+      ],
+      "culture_tags": [
+        "재택근무",
+        "스톡옵션"
+      ],
+      "benefits": "* 홍대입구역 6번 출구 도보 7분 거리 역세권 사무실 \r\n서울특별시 마포구 와우산로30길 18\r\n\r\n💪 서로의 역할과 업무를 이해하고 협업하는 팀과 구성원\r\n\r\n\r\n🏖️ 맘 놓고 휴가를 가도, 아파도 되는 유기적인 역할 조직\r\n\r\n❌ 규칙이 없는 것이 규칙인 환경\r\n\r\n💻 자율 휴가/ 재택 원격 근무\r\n\r\n🏬 핫플레이스 홍대 5분 거리 위치 \r\n\r\n🗣 개별 미팅룸, 휴식 공간, 라운지, 부스폰 등 홀을 갖춘 공간\r\n\r\n🥃 커피/ 씨리얼 등 F&B 제공\r\n\r\n🍽️ 식대 제공\r\n\r\n🖥️ 업무 포지션에 맞춘 랩탑과 모니터 제공\r\n\r\n🛒 펫박스몰 임직원 할인\r\n\r\n🎸 학사 100% , 석사 90% 학자금 지급\r\n\r\n*스톡옵션 1-2% 지급 기회 ",
+      "location": "서울 마포구",
+      "min_career": 6,
+      "max_career": 8,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-23T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:48.795926+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53395795,
+      "source_url": "https://www.jumpit.co.kr/position/53395795",
+      "company_name": "포트로직스",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "백엔드 엔지니어 (5년 ~ 10년)",
+      "job_category": "DBA,서버/백엔드 개발자",
+      "description": "[ Unlock Your Global Business ]\r\n포트로직스는 디지털 포워더로서 물류 시장의 네트워크에 IT 기술력을 더해 약 1,000조원의 글로벌 물류 시장에서 변화를 만들어내는 회사입니다.\r\n우리는 자사 솔루션 'TOMS'를 통해 기존 수출입 물류 시장의 이메일에 의존한 업무, 비효율적인 정보 관리와 취약한 보안 등의 문제를 해결합니다. 솔루션을 통해 업무의 투명성과 효율을 높이며, 실시간 위치 확인 서비스 등을 통해 신뢰도를 높입니다.\r\n\r\n\r\n[ 우리의 성장 그래프 ]\r\n2021년 설립 이후 연간 매출액은 꾸준한 상승세를 보이고 있습니다.\r\n2021년 2천만원을 시작으로 2023년 58억, 2024년 244억, 2025년 406억의 매출을 달성하였습니다.\r\n\r\n또한, 국내 본사를 필두로 해외 각국으로 법인을 넓혀나가고 있습니다.\r\n현재 미국, 인도네시아, 말레이시아, 베트남, 일본 법인을 운영 중에 있습니다.\r\n\r\n\r\n[ 팀 소개 ]\r\n포트로직스 백엔드팀은 우리 물류 비즈니스의 가장 깊고 복잡한 심장부를 책임집니다. 단순한 물류 관리를 넘어, 견적, 외부 EDI 신고, 정산 등 복잡한 도메인 규칙이 얽혀있는 문제를 다룹니다.\r\n\r\n이 거대한 복잡성을 안정적이면서도 확장 가능한 시스템으로 풀어내는 것이 우리의 미션입니다. 이를 위해 우리는 '깊이 있는 도메인 이해', '빠른 실행', 그리고 '끊임없는 개선'을 핵심 가치로 삼고 있습니다.\r\n\r\n눈앞의 기능 구현을 넘어, 비즈니스 속도를 맞추면서도 시스템의 스케일업과 기술 부채 상환을 아우르는 장기적인 엔지니어링 로드맵을 함께 실행할 주도적인 동료를 찾습니다.\r\n\r\n\r\n[ 함께 키워갈 역량 ]\r\n• 물류·포워딩 도메인 지식을 깊게 이해하고, 시스템 설계와 데이터 모델에 녹여내는 능력\r\n• 복잡한 비즈니스 규칙을 테스트 가능한 단위로 분리하고, 안정적인 변경을 보장하는 설계 능력\r\n• 장애 대응과 운영 경험을 축적하여, 시스템 전체의 안정성과 관측 가능성을 높이는 리더십\r\n• 지금 완벽하지 않더라도, 스스로의 부족한 지점을 인식하고 회사와 함께 성장하려는 의지와 학습 습관",
+      "main_tasks": "• 복잡한 물류·포워딩 도메인(견적, 정산, 운임, EDI, 멀티테넌시 등)의 비즈니스 문제를 이해하고, 이를 해결하는 견고한 백엔드 시스템을 설계 및 구현합니다.\r\n• 높은 도메인 복잡도 속에서 명확한 데이터 모델과 비즈니스 규칙을 정의하고, 이를 코드와 자동화된 테스트로 철저하게 검증합니다.\r\n• 프론트엔드 및 외부 연동 시스템과 유연하게 맞물리며, 하위 호환성을 유지하면서도 독립적으로 배포 가능한 API와 아키텍처를 구축합니다.\r\n• CI/CD 파이프라인, 테스트 자동화, 성능 모니터링 기반의 고품질 소프트웨어 운영 환경을 직접 설계하고 주도적으로 고도화합니다.\r\n• 장애 발생 시 근본 원인(RCA)을 집요하게 분석하여 단일 장애점(SPOF)을 제거하고, 시스템 신뢰성(Reliability)을 선제적으로 개선합니다.\r\n• 기획, 사업, 운영 등 다양한 직군과 협업하여 \"무엇을 만들까?\"를 넘어 \"어떤 비즈니스 문제를 어떤 순서로 해결할까?\"를 주도적으로 논의합니다.\r\n• 팀의 코드 품질 기준, 리뷰 문화, 테스트 전략을 지속적으로 진화시키며 조직 전체의 엔지니어링 기준점 역할을 수행합니다.",
+      "requirements": [
+        " 서버사이드 개발 경험 5년 이상, 혹은 그에 준하는 실력을 보유하신 분",
+        " Java와 Spring 기반 웹 애플리케이션 개발에 익숙하신 분",
+        " RDBMS(MySQL 등) 설계 및 쿼리 최적화 경험이 있는 분",
+        " RESTful API 설계 원칙을 이해하고, 실무에서 적용해본 분",
+        " \"이 기능을 왜 만들어야 하는지, 이 문제가 왜 중요한지\"를 끊임없이 질문하고 스스로 답을 찾아가는 분",
+        " 기술적인 해법뿐 아니라, 문제의 본질과 비즈니스·사용자 관점까지 함께 고민하는 분",
+        " 솔직하고 담백하게 피드백을 주고받으며, 사람을 향한 비난이 아닌 문제를 향한 피드백을 지향하는 분",
+        " 문제를 발견했을 때, \"왜 이런 일이 생겼지?\"를 논리적으로 분석하고 근본 원인을 찾으려는 태도를 가지신 분",
+        " 복잡한 문제를 하나씩 쪼개 해결해 나가는 과정 자체에서 재미와 성취감을 느끼는 분",
+        " 다양한 직군과의 협업과 커뮤니케이션을 즐기며, 자신의 생각을 논리적으로 설명할 수 있는 분",
+        " 더 나은 방법이 있다고 생각하면 데이터와 논리를 기반으로 건설적으로 반론하고, 아직 데이터가 없다면 측정 방법부터 제안하는 분",
+        " 문제를 발견하면 기다리지 않고 먼저 손을 드는 분",
+        " AI 도구를 실제 업무에 적극 활용하여 자신의 생산성을 높여본 경험이 있는 분"
+      ],
+      "preferred": [
+        " AI 또는 자동화를 활용해 팀·회사 단위의 업무 프로세스나 워크플로우를 개선해본 경험이 있는 분",
+        " 멀티모듈 프로젝트 구조에서의 개발 경험이 있는 분",
+        " 도메인 주도 설계(DDD) 또는 이벤트 기반 아키텍처에 대한 이해와 적용 경험이 있는 분",
+        " AWS 인프라(EC2, RDS, S3, SQS 등) 운영 또는 활용 경험이 있는 분",
+        " CI/CD 파이프라인 구축 및 운영 경험이 있는 분",
+        " 코드 리뷰와 테스트(단위/통합 테스트 등)를 통해 품질을 관리한 경험이 있으신 분",
+        " 도메인 지식(포워딩, 물류, 수출입, 운송, 정산 등)에 관심이 있거나 빠르게 학습해본 경험이 있는 분",
+        " 프론트엔드 등 다른 영역에 대한 기본적인 이해를 바탕으로, 시스템 전체 구조를 함께 그려볼 수 있는 분",
+        " 문제 제기에서 그치지 않고, 개선안 제안 ＞ 실험 ＞ 회고까지의 사이클을 스스로 만들어본 경험이 있는 분",
+        " 빠르게 성장하는 조직에서 스케일업을 경험해본 분 — 시스템, 프로세스, 조직이 함께 커지는 과정을 겪어본 분"
+      ],
+      "tech_stack": [
+        "Kafka",
+        "Kubernetes",
+        "PostgreSQL",
+        "Redis",
+        "NoSql"
+      ],
+      "culture_tags": [],
+      "benefits": "• 시차 출퇴근\r\n• 유급 여름 휴가\r\n• 건강검진 휴가\r\n• 경조사 휴가\r\n• 교육비 및 도서 구매 지원\r\n• 중소기업 소득세 감면",
+      "location": "경기 성남시 분당구",
+      "min_career": 5,
+      "max_career": 10,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-18T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:51.683367+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53345426,
+      "source_url": "https://www.jumpit.co.kr/position/53345426",
+      "company_name": "싸이터",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "백엔드 개발자(4-10년 경력)",
+      "job_category": "서버/백엔드 개발자",
+      "description": "싸이터(舊 디에스랩컴퍼니)는 자율운항선박, 스마트십 등의 새로운 선박 기반의 사이버보안 기술을 연구/개발하는 스타트업입니다. 2016년부터 보안컨설팅과 디지털포렌식 서비스를 제공하고 있으며, 2019년부터 본격적인 선박 사이버보안 기술 개발을 추진하면서, 조선해양 산업 분야 강소기업으로 평가 받고 있습니다. 이제 우리는 최고의 첨단 보안 기술과 R&D 역량을 쌓으며, 세계 속에 자리매김하는 글로벌 해양 사이버 보안 회사로 발돋움하고자 합니다.\r\n\r\n싸이터는 목표를 수립하고 달성해가며 조직과 함께 성장할 구성원을 찾고 있습니다. 비록 경험이나 전공 등이 완벽하게 부합하지 않더라도, 스스로의 내적기준을 높이고 업무와 자기계발에 함께 몰입함으로써 함께 성장하는 즐거움을 만들어갈 준비가 된 분이라면 진심으로 환영합니다.\r\n\r\n직무목표\r\nㆍ 싸이터의 사업목표 달성을 위해 보안정책과 클라이언트의 니즈를 연계하여 통합 관점에서 해양 사이버 보안 기술 개발을 위한 전반적인 연구/개발 활동에 참여합니다.\r\nㆍ 해양/선박의 사이버 보안 기술에 대한 깊이 있는 이해도를 바탕으로 담당 클라이언트의 니즈를 뛰어넘는 인사이트를 구현하고, 적절한 솔루션을 제공함으로써 건강한 보안환경을 구축할 수 있도록 변화를 주도합니다.\r\nㆍ 이를 통해 해양/선박 사이버 보안 연구 영역에 대한 연구를 바탕으로 통찰력과 컨설팅 능력, 사업의 전략적 파트너로서 성장하는 경험을 얻을 수 있습니다.\r\nㆍ CTO-개발팀장/팀원-연구자와의 활발한 커뮤니케이션 필요합니다.",
+      "main_tasks": "ㆍ선박 사이버보안 소프트웨어 백엔드 개발\r\nㆍAPI 서버 기능 개발",
+      "requirements": [
+        "ㆍ학력 : 학력무관",
+        "ㆍ개발 경력 4~10년",
+        "ㆍSpringboot 개발",
+        "ㆍKubernetes 환경 개발 경험",
+        "ㆍMysql, Kafka, Opensearch 또는 Elasticsearch 사용 경험",
+        "ㆍREST API 개발 경험",
+        "ㆍ해외여행에 결격사유가 없는 분"
+      ],
+      "preferred": [
+        "ㆍMSA 기반 개발 경험",
+        "ㆍAWS 기반 개발 경험",
+        "ㆍReact.js 개발 경험",
+        "ㆍ대용량 트래픽 서비스 개발 경험",
+        "ㆍ해양 또는 사이버보안 관련 지식을 수학하셨거나, 자격을 갖추신 분",
+        "ㆍ스타트업 근무 경험이 있으신 분"
+      ],
+      "tech_stack": [
+        "Elasticsearch",
+        "Java",
+        "Kafka",
+        "Kubernetes",
+        "MySQL",
+        "Spring Boot",
+        "REST API",
+        "AWS"
+      ],
+      "culture_tags": [
+        "자기계발비"
+      ],
+      "benefits": "ㆍ연구 및 자기계발을 위한 컨퍼런스/세미나/교육 지원 및 도서 제공\r\nㆍ대학원 석/박사 과정 지원(내부 규정에 의거)\r\nㆍ점심 시간 90분\r\nㆍ명절/창립기념일 선물 지급\r\nㆍ경조사 지원 및 휴가 지원\r\nㆍ연말 인센티브 지급",
+      "location": "서울 금천구",
+      "min_career": 4,
+      "max_career": 10,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-14T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:56.329181+00:00"
+    },
+    {
+      "source": "jumpit",
+      "source_id": 53435296,
+      "source_url": "https://www.jumpit.co.kr/position/53435296",
+      "company_name": "넥서스커뮤니티",
+      "company_industry": "",
+      "company_size": null,
+      "position_title": "CIOD 개발 채용",
+      "job_category": "devops/시스템 엔지니어,서버/백엔드 개발자",
+      "description": "넥서스커뮤니티는 사람을 이어주는 디지털창조자를 꿈꾸며 1991년 설립 이후, 대한민국 최고의 콜센터 CTI Middleware를 개발하여 국내 시장의 리더가 되었으며, 기업 콜센터 생산성 향상 및 콜센터 이용 고객의 만족을 실현한 기술력을 바탕으로 IPCC, AICC 시장을 개척해 나가고 있습니다.\r\n\r\n[기업비전]\r\nCore Value를 통해 선제적 현식, 긍정적 책임, 전문적 탐구, 상호간 존중이라는 넥서스만의 가치를 실현하고자 합니다. 핵심 CS 솔루션 역량을 확보와 플랫폼 확장을 위한 파트너쉽 강화를 통하여 사람과 기술을 연결하는 최고의 CX Plarform Leader 의 비전을 실현하고자 합니다.\r\n\r\n[기업문화]\r\n넥서스커뮤니티는 대기업 수준의 선진기업문화를 구축하여 다니고 싶은 기업으로 손꼽히고 있습니다. 직원을 위한 다양한 복지시설과 복지문화 및 성장을 위한 혜택이 제공됩니다.",
+      "main_tasks": "• 콜센터 아웃바운드 솔루션 개발, 운영\r\n• 백엔드 API, CRM(고객관계관리), 데이터베이스 등 내부 시스템 연동 개발\r\n• CTI(Computer Telephony Integration) 시스템 연동을 통한 상담원 연결 및 데이터 전달 기능 개발\r\n• 콜 통계 및 데이터 분석을 통한 솔루션 개발 및 서비스 품질향상",
+      "requirements": [
+        " 경력 7년 이상 ~ 15년 이하",
+        " C/C++ 개발경험 (10년 이상)",
+        " VoIP, SIP 등 인터넷 전화 프로토콜에 대한 기본적인 이해",
+        " 개발, 기획 등 유관 부서와의 원활한 커뮤니케이션 능력"
+      ],
+      "preferred": [
+        " 금융, 통신, 이커머스 등 대규모 콜센터 시스템 구축/운영 경험",
+        " CTI 미들웨어 개발 또는 연동 경험",
+        " 데이터베이스(SQL) 활용 능력 및 쿼리 작성 능력",
+        " 컨택센터 업무 프로세스에 대한 높은 이해도"
+      ],
+      "tech_stack": [
+        "C",
+        "C++",
+        "REST API",
+        "SQL"
+      ],
+      "culture_tags": [
+        "자기계발비"
+      ],
+      "benefits": "집에 가기 싫어질 걸!\r\n• 복지몰 운영\r\n• 자기계발비 연간 최대 240만원 지원\r\n• 교통비, 대리운전, 통신비 지원\r\n• 회식비, 부서운영비 지원\r\n• 사내동호회, 여직원모임 지원\r\n• 원두커피머신, 휴게공간 제공\r\n\r\n힐링해야 일을 하지!\r\n• 매년 전직원 휴가 숙소비 20만원\r\n• 3/5/7/10/15/20년 근속 시, 최대 포상휴가 15일과 여행지원금 200만원\r\n\r\n건강은 회사가 챙긴다!\r\n• 매주 월요일 10시 출근\r\n• 매년 20만원 상당 종합건강검진 지원\r\n• 리더급 체력단련비 지원\r\n\r\n가족이 더 좋아해요!\r\n• 자녀 입학 축하금 및 학자금 지원\r\n• 각종 경조사는 기본\r\n• 명절상여금, 생일, 출산 축하 선물\r\n• 가족 초청행사 패밀리데이 운영\r\n\r\n서울 중심에 위치!\r\n• 을지로 3가역 도보 5분 거리\r\n• 힙지로 맛집 상권에 위치",
+      "location": "서울 중구",
+      "min_career": 7,
+      "max_career": 15,
+      "newcomer": false,
+      "celebration": 50,
+      "closed_at": "2026-04-23T23:59:59",
+      "always_open": false,
+      "scraped_at": "2026-03-26T09:40:59.269572+00:00"
+    }
+  ]
+}
