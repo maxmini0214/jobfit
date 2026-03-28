@@ -11,13 +11,13 @@ export default function Home() {
           </h1>
           <div className="flex gap-4">
             <Link
-              href="/login"
+              href="/onboarding"
               className="text-slate-600 hover:text-slate-900 px-4 py-2"
             >
               로그인
             </Link>
             <Link
-              href="/signup"
+              href="/onboarding"
               className="bg-blue-600 text-white px-5 py-2 rounded-lg hover:bg-blue-700 transition"
             >
               무료로 시작하기
@@ -37,7 +37,7 @@ export default function Home() {
             당신에게 최적인 회사를 매칭해드립니다.
           </p>
           <Link
-            href="/signup"
+            href="/onboarding"
             className="inline-block bg-blue-600 text-white text-lg px-8 py-4 rounded-xl hover:bg-blue-700 transition shadow-lg shadow-blue-200"
           >
             무료 매칭 리포트 받기 →
@@ -45,6 +45,12 @@ export default function Home() {
           <p className="text-sm text-slate-400 mt-4">
             기본 매칭 3개 무료 · 신용카드 불필요
           </p>
+          <Link
+            href="/demo"
+            className="inline-block text-sm text-blue-600 hover:text-blue-700 mt-3 underline underline-offset-4"
+          >
+            👀 데모 결과 먼저 보기
+          </Link>
         </div>
       </header>
 
@@ -136,7 +142,7 @@ export default function Home() {
               <li>✓ 공고 크롤링</li>
             </ul>
             <Link
-              href="/signup"
+              href="/onboarding"
               className="block text-center border-2 border-blue-600 text-blue-600 px-6 py-3 rounded-lg hover:bg-blue-50 transition"
             >
               시작하기

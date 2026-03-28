@@ -296,6 +296,13 @@ def main():
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
+    # Also copy to src/data/jobs.json for Next.js static import (Vercel compatible)
+    src_data_dir = Path(filepath).parent.parent / "src" / "data"
+    if src_data_dir.exists():
+        import shutil
+        shutil.copy2(filepath, src_data_dir / "jobs.json")
+        print(f"📦 src/data/jobs.json 동기화 완료")
+
     elapsed = time.time() - start
 
     # 통계
